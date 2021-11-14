@@ -1,0 +1,1151 @@
+
+	.mediaViewInfo {
+		--web-view-name: iPhone 12 Pro Max – 69;
+		--web-view-id: iPhone_12_Pro_Max__69;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: iPhone_12_Pro_Max__69;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_12_Pro_Max__69 {
+		position: absolute;
+		width: 428px;
+		height: 1263px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 12 Pro Max – 69;
+		--web-view-id: iPhone_12_Pro_Max__69;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#Rectangle_1258 {
+		fill: rgba(95,149,125,1);
+	}
+	.Rectangle_1258 {
+		position: absolute;
+		overflow: visible;
+		width: 430px;
+		height: 244px;
+		left: -2px;
+		top: 0px;
+	}
+	#Group_1309 {
+		position: absolute;
+		width: 66.661px;
+		height: 11.336px;
+		left: 348.503px;
+		top: 15.331px;
+		overflow: visible;
+	}
+	#Group_194 {
+		position: absolute;
+		width: 22px;
+		height: 11.333px;
+		left: 42.333px;
+		top: 0.002px;
+		overflow: visible;
+	}
+	#Group_196 {
+		position: absolute;
+		width: 1.328px;
+		height: 4px;
+		left: 65.333px;
+		top: 3.669px;
+		overflow: visible;
+	}
+	#Group_198 {
+		position: absolute;
+		width: 18px;
+		height: 7.333px;
+		left: 44.333px;
+		top: 2.002px;
+		overflow: visible;
+	}
+	#Group_200 {
+		position: absolute;
+		width: 15.272px;
+		height: 10.966px;
+		left: 22.026px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_202 {
+		position: absolute;
+		width: 17px;
+		height: 10.667px;
+		left: 0px;
+		top: 0.336px;
+		overflow: visible;
+	}
+	#n_41 {
+		left: 21px;
+		top: 10.999px;
+		position: absolute;
+		overflow: visible;
+		width: 173px;
+		height: 20px;
+		text-align: left;
+		font-family: Avenir;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(0,0,0,1);
+	}
+	#Group_1327 {
+		position: absolute;
+		width: 217px;
+		height: 69px;
+		left: 118px;
+		top: 152px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: iPhone_12_Pro_Max___68.html;
+		cursor: pointer;
+	}
+	#Lo_Kam_Kiu__ID_104201123_View_ {
+		left: 0px;
+		top: 3px;
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		height: 66px;
+		text-align: left;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+	#view_settings{
+		position: relative;
+		top: -20px;
+	}
+	#Ellipse_149 {
+		fill: rgba(255,255,255,1);
+	}
+	.Ellipse_149 {
+		filter: drop-shadow(0px 3px 4px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 44px;
+		left: 185px;
+		top: 0px;
+	}
+	#Path_3717 {
+		fill: transparent;
+		stroke: rgba(49,62,71,1);
+		stroke-width: 2px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3717 {
+		overflow: visible;
+		position: absolute;
+		width: 12.755px;
+		height: 20.073px;
+		left: 196.526px;
+		top: 7.371px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#WhatsApp_Image_2021-11-13_at_5 {
+		position: absolute;
+		width: 76px;
+		height: 76px;
+		left: 28px;
+		top: 149px;
+		overflow: visible;
+	}
+	#CX_Health_Points {
+		left: 37.5px;
+		top: 86px;
+		position: absolute;
+		overflow: visible;
+		width: 354px;
+		height: 39px;
+		text-align: left;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Nutrition {
+		position: absolute;
+		width: 307.528px;
+		height: 125.313px;
+		left: 64.271px;
+		top: 271.338px;
+		overflow: visible;
+	}
+	#Path_3722 {
+		opacity: 0.18;
+		fill: transparent;
+		stroke: rgba(211,137,137,1);
+		stroke-width: 8px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3722 {
+		overflow: visible;
+		position: absolute;
+		width: 125.313px;
+		height: 125.313px;
+		left: 0px;
+		top: -10px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_240 {
+		fill: transparent;
+		stroke: rgba(231,76,60,1);
+		stroke-width: 8px;
+		stroke-linejoin: miter;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+		
+	}
+	.Path_240 {
+		filter: drop-shadow(0px 3px 6px rgba(231, 76, 60, 0.451));
+		overflow: visible;
+		position: absolute;
+		width: 126.557px;
+		height: 143.39px;
+		left: -10.695px;
+		top: -19.02px;
+		transform: matrix(1,0,0,1,0,0);
+		transform: scale(0.85);
+	}
+	#n_00cl {
+		left: 28.176px;
+		top: 36.731px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 26px;
+		color: rgba(0,0,0,1);
+	}
+	#Ellipse_45 {
+		fill: rgba(231,76,60,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1.2000000476837158px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_45 {
+		position: absolute;
+		overflow: visible;
+		width: 3.966px;
+		height: 3.966px;
+		left: 103px;
+		top: 4.8px;
+	}
+	#NUTRITION_ {
+		left: 144.677px;
+		top: 24.75px;
+		position: absolute;
+		overflow: visible;
+		width: 83px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+	}
+	#Started_a_vegetarian_diet_with {
+		left: 147.677px;
+		top: 51.489px;
+		position: absolute;
+		overflow: visible;
+		width: 160.852px;
+		height: 53.283878326416016px;
+		text-align: left;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 15px;
+		color: rgba(0,0,0,1);
+	}
+	#Path_301 {
+		fill: rgba(0,0,0,0);
+		stroke: rgba(81,84,101,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_301 {
+		overflow: visible;
+		position: absolute;
+		width: 88.489px;
+		height: 1px;
+		left: 148.151px;
+		top: 46.256px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Nutrition_ba {
+		position: absolute;
+		width: 207.139px;
+		height: 87.959px;
+		left: 163.507px;
+		top: 427.984px;
+		overflow: visible;
+	}
+	#Ellipse_45_bb {
+		fill: rgba(231,76,60,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1.2000000476837158px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_45_bb {
+		position: absolute;
+		overflow: visible;
+		width: 3.966px;
+		height: 3.966px;
+		left: 0px;
+		top: -13px;
+	}
+	#SLEEP {
+		left: 45.288px;
+		top: 7.937px;
+		position: absolute;
+		overflow: visible;
+		width: 40px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+	}
+	#Slept_by_12_pm_everyday {
+		left: 47.288px;
+		top: 34.676px;
+		position: absolute;
+		overflow: visible;
+		width: 160.852px;
+		height: 53.283878326416016px;
+		text-align: left;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 15px;
+		color: rgba(0,0,0,1);
+	}
+	#Path_301_be {
+		fill: rgba(0,0,0,0);
+		stroke: rgba(81,84,101,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_301_be {
+		overflow: visible;
+		position: absolute;
+		width: 88.489px;
+		height: 1px;
+		left: 47.763px;
+		top: 29.442px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Nutrition_bf {
+		position: absolute;
+		width: 207.139px;
+		height: 87.959px;
+		left: 161.201px;
+		top: 571.745px;
+		overflow: visible;
+	}
+	#Ellipse_45_bg {
+		fill: rgba(231,76,60,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1.2000000476837158px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_45_bg {
+		position: absolute;
+		overflow: visible;
+		width: 3.966px;
+		height: 3.966px;
+		left: 0px;
+		top: -15px;
+	}
+	#WATER_INTAKE {
+		left: 50.764px;
+		top: 6.209px;
+		position: absolute;
+		overflow: visible;
+		width: 101px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+	}
+	#Drank_4_litres_more_than_last_ {
+		left: 47.287px;
+		top: 34.676px;
+		position: absolute;
+		overflow: visible;
+		width: 160.852px;
+		height: 53.283878326416016px;
+		text-align: left;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 15px;
+		color: rgba(0,0,0,1);
+	}
+	#Path_301_bj {
+		fill: rgba(0,0,0,0);
+		stroke: rgba(81,84,101,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_301_bj {
+		overflow: visible;
+		position: absolute;
+		width: 88.489px;
+		height: 1px;
+		left: 47.764px;
+		top: 29.442px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Nutrition_bk {
+		position: absolute;
+		width: 207.139px;
+		height: 87.959px;
+		left: 161.201px;
+		top: 708.042px;
+		overflow: visible;
+	}
+	#Ellipse_45_bl {
+		fill: rgba(231,76,60,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1.2000000476837158px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_45_bl {
+		position: absolute;
+		overflow: visible;
+		width: 3.966px;
+		height: 3.966px;
+		left: 0px;
+		top: -4px;
+	}
+	#STEPS {
+		left: 48.765px;
+		top: 6.209px;
+		position: absolute;
+		overflow: visible;
+		width: 41px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+	}
+	#Averaged_3000_more_steps_than_ {
+		left: 47.288px;
+		top: 34.676px;
+		position: absolute;
+		overflow: visible;
+		width: 160.852px;
+		height: 53.283878326416016px;
+		text-align: left;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 15px;
+		color: rgba(0,0,0,1);
+	}
+	#Path_301_bo {
+		fill: rgba(0,0,0,0);
+		stroke: rgba(81,84,101,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_301_bo {
+		overflow: visible;
+		position: absolute;
+		width: 88.489px;
+		height: 1px;
+		left: 47.764px;
+		top: 29.442px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Sleep {
+		position: absolute;
+		width: 125.313px;
+		height: 125.313px;
+		left: 63.118px;
+		top: 396.651px;
+		overflow: visible;
+	}
+	#Group_1332 {
+		position: absolute;
+		width: 125.313px;
+		height: 125.313px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_3723 {
+		opacity: 0.18;
+		fill: transparent;
+		stroke: rgba(247,255,155,1);
+		stroke-width: 8px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3723 {
+		overflow: visible;
+		position: absolute;
+		width: 125.313px;
+		height: 125.313px;
+		left: 0px;
+		top: 5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_240_bs {
+		fill: transparent;
+		stroke: rgba(234,173,76,1);
+		stroke-width: 8px;
+		stroke-linejoin: miter;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+		
+	}
+	.Path_240_bs {
+		filter: drop-shadow(0px 3px 6px rgba(234, 173, 76, 0.451));
+		overflow: visible;
+		position: absolute;
+		width: 77.426px;
+		height: 74.528px;
+		left: -6.965px;
+		top: 65.558px;
+		transform: matrix(1,0,0,1,0,0);
+		transform: scale(0.75);
+	}
+	#n_h20m {
+		left: 19.272px;
+		top: 49.731px;
+		position: absolute;
+		overflow: visible;
+		width: 82px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+	}
+	#Ellipse_45_bu {
+		fill: rgba(234,173,76,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1.2000000476837158px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_45_bu {
+		position: absolute;
+		overflow: visible;
+		width: 3.966px;
+		height: 3.966px;
+		left: 1.336px;
+		top: 72.001px;
+	}
+	#Sleep_bv {
+		position: absolute;
+		width: 125.313px;
+		height: 125.313px;
+		left: 60.813px;
+		top: 543.943px;
+		overflow: visible;
+	}
+	#Group_1332_bw {
+		position: absolute;
+		width: 125.313px;
+		height: 125.313px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_3723_bx {
+		opacity: 0.18;
+		fill: transparent;
+		stroke: rgba(155,224,255,1);
+		stroke-width: 8px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3723_bx {
+		overflow: visible;
+		position: absolute;
+		width: 125.313px;
+		height: 125.313px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_240_by {
+		fill: transparent;
+		stroke: rgba(123,167,250,1);
+		stroke-width: 8px;
+		stroke-linejoin: miter;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_240_by {
+		filter: drop-shadow(0px 3px 6px rgba(234, 173, 76, 0.451));
+		overflow: visible;
+		position: absolute;
+		width: 77.426px;
+		height: 74.528px;
+		left: -6.965px;
+		top: 60.558px;
+		transform: matrix(1,0,0,1,0,0);
+		transform: scale(0.75);
+	}
+	#n__litres {
+		left: 20.272px;
+		top: 45.73px;
+		position: absolute;
+		overflow: visible;
+		width: 81px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+	}
+	#Ellipse_45_b {
+		fill: rgba(234,173,76,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1.2000000476837158px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_45_b {
+		position: absolute;
+		overflow: visible;
+		width: 3.966px;
+		height: 3.966px;
+		left: 1.336px;
+		top: 69px;
+	}
+	#Sleep_b {
+		position: absolute;
+		width: 125.313px;
+		height: 125.313px;
+		left: 56.201px;
+		top: 687.704px;
+		overflow: visible;
+	}
+	#Group_1332_b {
+		position: absolute;
+		width: 125.313px;
+		height: 125.313px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_3723_b {
+		opacity: 0.18;
+		fill: transparent;
+		stroke: rgba(87,219,143,1);
+		stroke-width: 8px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3723_b {
+		overflow: visible;
+		position: absolute;
+		width: 125.313px;
+		height: 125.313px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_240_b {
+		fill: transparent;
+		stroke: rgba(76,234,137,1);
+		stroke-width: 8px;
+		stroke-linejoin: miter;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_240_b {
+		filter: drop-shadow(0px 3px 6px rgba(234, 173, 76, 0.451));
+		overflow: visible;
+		position: absolute;
+		width: 77.426px;
+		height: 74.528px;
+		left: -6.965px;
+		top: 60.558px;
+		transform: matrix(1,0,0,1,0,0);
+		transform: scale(0.75);
+	}
+	#n_000 {
+		left: 26.273px;
+		top: 46.731px;
+		position: absolute;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+	}
+	#Ellipse_45_ca {
+		fill: rgba(234,173,76,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1.2000000476837158px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_45_ca {
+		position: absolute;
+		overflow: visible;
+		width: 3.966px;
+		height: 3.966px;
+		left: 1.336px;
+		top: 70.001px;
+	}
+	#Chart_Button {
+		position: absolute;
+		width: 347.812px;
+		height: 52px;
+		left: 40.094px;
+		top: 1117.367px;
+		overflow: visible;
+	}
+	#Rectangle_1371 {
+		fill: rgba(54,58,78,1);
+	}
+	.Rectangle_1371 {
+		filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.09));
+		position: absolute;
+		overflow: visible;
+		width: 201.136px;
+		height: 82px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_1372 {
+		fill: rgba(54,58,78,1);
+	}
+	.Rectangle_1372 {
+		filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.2));
+		position: absolute;
+		overflow: visible;
+		width: 201.136px;
+		height: 82px;
+		left: 176.677px;
+		top: 0px;
+	}
+	#Steps {
+		left: 77px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(227,227,227,1);
+		letter-spacing: 0.3px;
+	}
+	#Working_Time {
+		left: 220px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(227,227,227,1);
+		letter-spacing: 0.3px;
+	}
+	#footsteps-silhouette-variant {
+		position: absolute;
+		width: 17.33px;
+		height: 24.004px;
+		left: 41.18px;
+		top: 13.5px;
+		overflow: visible;
+	}
+	#Path_242 {
+		fill: rgba(227,227,227,1);
+	}
+	.Path_242 {
+		overflow: visible;
+		position: absolute;
+		width: 17.33px;
+		height: 24.004px;
+		left: -0.001px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#timer-silhouette {
+		position: absolute;
+		width: 18.338px;
+		height: 20.895px;
+		left: 205.421px;
+		top: 16px;
+		overflow: visible;
+	}
+	#Group_166 {
+		position: absolute;
+		width: 18.338px;
+		height: 20.895px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_165 {
+		position: absolute;
+		width: 18.338px;
+		height: 20.895px;
+		left: -10px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_243 {
+		fill: rgba(227,227,227,1);
+	}
+	.Path_243 {
+		overflow: visible;
+		position: absolute;
+		width: 4.041px;
+		height: 1.872px;
+		left: 7.174px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_244 {
+		fill: rgba(227,227,227,1);
+	}
+	.Path_244 {
+		overflow: visible;
+		position: absolute;
+		width: 18.338px;
+		height: 18.34px;
+		left: 0px;
+		top: 2.555px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_245 {
+		fill: rgba(227,227,227,1);
+	}
+	.Path_245 {
+		overflow: visible;
+		position: absolute;
+		width: 11.074px;
+		height: 11.074px;
+		left: 3.656px;
+		top: 6.187px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Slider_3 {
+		position: absolute;
+		width: 394.307px;
+		height: 222.669px;
+		left: 16.847px;
+		top: 866px;
+		overflow: visible;
+	}
+	#Chart {
+		position: absolute;
+		width: 394.307px;
+		height: 222.669px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_853 {
+		fill: rgba(255,239,114,1);
+	}
+	.Rectangle_853 {
+		filter: drop-shadow(10px 0px 20px rgba(0, 0, 0, 0.22));
+		position: absolute;
+		overflow: visible;
+		width: 454.307px;
+		height: 282.669px;
+		left: 0px;
+		top: 0px;
+	}
+	#Path_253 {
+		fill: rgba(255,239,114,1);
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: bevel;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_253 {
+		overflow: visible;
+		position: absolute;
+		width: 308.342px;
+		height: 113.841px;
+		left: 39.397px;
+		top: 31.205px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Mask_Group_1 {
+		position: absolute;
+		width: 153px;
+		height: 42px;
+		left: 29.754px;
+		top: 163.367px;
+		overflow: visible;
+	}
+	#Mid_Status {
+		position: absolute;
+		width: 323px;
+		height: 49.595px;
+		left: 48.994px;
+		top: 1182.065px;
+		overflow: visible;
+	}
+	#Rectangle_1373 {
+		fill: rgba(54,58,78,1);
+	}
+	.Rectangle_1373 {
+		position: absolute;
+		overflow: visible;
+		width: 91px;
+		height: 7.377px;
+		left: 0px;
+		top: 20.595px;
+	}
+	#Rectangle_1377 {
+		fill: rgba(54,58,78,1);
+	}
+	.Rectangle_1377 {
+		position: absolute;
+		overflow: visible;
+		width: 91px;
+		height: 7.377px;
+		left: 116px;
+		top: 20.595px;
+	}
+	#Rectangle_1379 {
+		fill: rgba(54,58,78,1);
+	}
+	.Rectangle_1379 {
+		position: absolute;
+		overflow: visible;
+		width: 91px;
+		height: 7.377px;
+		left: 232px;
+		top: 20.595px;
+	}
+	#Rectangle_1376 {
+		fill: rgba(56,220,254,1);
+	}
+	.Rectangle_1376 {
+		position: absolute;
+		overflow: visible;
+		width: 78px;
+		height: 7.377px;
+		left: 0px;
+		top: 20.595px;
+	}
+	#Rectangle_1378 {
+		fill: rgba(231,180,60,1);
+	}
+	.Rectangle_1378 {
+		position: absolute;
+		overflow: visible;
+		width: 54px;
+		height: 7.377px;
+		left: 116px;
+		top: 20.595px;
+	}
+	#Rectangle_1380 {
+		fill: rgba(231,60,191,1);
+	}
+	.Rectangle_1380 {
+		position: absolute;
+		overflow: visible;
+		width: 30px;
+		height: 7.377px;
+		left: 232px;
+		top: 20.595px;
+	}
+	#All_Time {
+		left: 0.27px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 51px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Last_Month {
+		left: 114.27px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Last_Week {
+		left: 232.27px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#n_0598_Kc {
+		left: 2px;
+		top: 29.595px;
+		position: absolute;
+		overflow: visible;
+		width: 58px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 15px;
+		color: rgba(142,146,165,1);
+	}
+	#n_6598_Kc {
+		left: 116px;
+		top: 29.595px;
+		position: absolute;
+		overflow: visible;
+		width: 58px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 15px;
+		color: rgba(142,146,165,1);
+	}
+	#n_9598_Kc {
+		left: 232px;
+		top: 29.595px;
+		position: absolute;
+		overflow: visible;
+		width: 58px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: "Montserrat";
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 15px;
+		color: rgba(142,146,165,1);
+	}
+	#Group_195 {
+		position: absolute;
+		width: 99px;
+		height: 83px;
+		left: 290.601px;
+		top: 994.834px;
+		overflow: visible;
+	}

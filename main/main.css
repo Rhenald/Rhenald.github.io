@@ -1,0 +1,242 @@
+	.mediaViewInfo {
+		--web-view-name: iPhone XR, XS Max, 11 – 2;
+		--web-view-id: iPhone_XR_XS_Max_11__2;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: iPhone_XR_XS_Max_11__2;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_XR_XS_Max_11__2 {
+		position: absolute;
+		width: 414px;
+		height: 896px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone XR, XS Max, 11 – 2;
+		--web-view-id: iPhone_XR_XS_Max_11__2;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#Artboard-115x-1 {
+		position: absolute;
+		width: 414px;
+		height: 293px;
+		left: 0px;
+		top: 331.496px;
+		overflow: visible;
+	}
+	#Group_1338 {
+		position: absolute;
+		width: 414px;
+		height: 45px;
+		left: 0px;
+		top: 851px;
+		overflow: visible;
+	}
+	#Group_3335 {
+		position: absolute;
+		width: 414px;
+		height: 45px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_194 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_194 {
+		position: absolute;
+		overflow: visible;
+		width: 414px;
+		height: 45px;
+		left: 0px;
+		top: 0px;
+	}
+	#Calendar_Icon {
+		position: absolute;
+		width: 19.406px;
+		height: 20.983px;
+		left: 113.712px;
+		top: 13.009px;
+		overflow: visible;
+		--web-animation: fadein 0.3s wind-up;
+		--web-action-type: page;
+		--web-action-target: iPhone_12_Pro_Max___55.html;
+		cursor: pointer;
+	}
+	#Path_119 {
+		fill: rgba(95,149,125,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_119 {
+		overflow: visible;
+		position: absolute;
+		width: 21.406px;
+		height: 20.879px;
+		left: 0px;
+		top: 2.104px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_120 {
+		fill: rgba(95,149,125,1);
+		stroke: rgba(0,206,201,1);
+		stroke-width: 2px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_120 {
+		overflow: visible;
+		position: absolute;
+		width: 2px;
+		height: 6.208px;
+		left: 14.016px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_121 {
+		fill: rgba(95,149,125,1);
+		stroke: rgba(0,206,201,1);
+		stroke-width: 2px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_121 {
+		overflow: visible;
+		position: absolute;
+		width: 2px;
+		height: 6.208px;
+		left: 5.391px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_122 {
+		fill: rgba(95,149,125,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_122 {
+		overflow: visible;
+		position: absolute;
+		width: 21.406px;
+		height: 2px;
+		left: 0px;
+		top: 8.394px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Tab_1 {
+		position: absolute;
+		width: 48px;
+		height: 42px;
+		left: 336px;
+		top: 2px;
+		overflow: visible;
+	}
+	#boundary {
+		fill: transparent;
+	}
+	.boundary {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 42px;
+		left: 0px;
+		top: 0px;
+	}
+	#settings-work-tool {
+		position: absolute;
+		width: 21.39px;
+		height: 21.391px;
+		left: 12.664px;
+		top: 11.152px;
+		overflow: visible;
+	}
+	#Group_464 {
+		position: absolute;
+		width: 21.39px;
+		height: 21.391px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_1188 {
+		fill: rgba(95,149,125,1);
+	}
+	.Path_1188 {
+		overflow: visible;
+		position: absolute;
+		width: 21.39px;
+		height: 21.391px;
+		left: 0.001px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#n_fd1a1d4e8a29727d610daab8b100 {
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 39px;
+		top: 11px;
+		overflow: visible;
+	}
+	#Mask_Group_11 {
+		position: absolute;
+		width: 34px;
+		height: 37px;
+		left: 190px;
+		top: 859px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: iPhone_XR__XS_Max__11___3.html;
+		cursor: pointer;
+	}
+	#injection {
+		position: absolute;
+		width: 28px;
+		height: 28px;
+		left: 269px;
+		top: 860px;
+		overflow: visible;
+		--web-animation: fadein 0.3s wind-up;
+		--web-action-type: page;
+		--web-action-target: iPhone_12_Pro_Max___71.html;
+		cursor: pointer;
+	}
+	#cathay_cx {
+		position: absolute;
+		width: 161.727px;
+		height: 161.727px;
+		left: 126.137px;
+		top: 271.504px;
+		overflow: visible;
+	}

@@ -1,0 +1,4615 @@
+	.mediaViewInfo {
+		--web-view-name: iPhone 12 Pro Max – 55;
+		--web-view-id: iPhone_12_Pro_Max__55;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: iPhone_12_Pro_Max__55;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_12_Pro_Max__55 {
+		position: absolute;
+		width: 428px;
+		height: 926px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 12 Pro Max – 55;
+		--web-view-id: iPhone_12_Pro_Max__55;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#Component_35__16 {
+		position: absolute;
+		width: 428px;
+		height: 485px;
+		left: 0px;
+		top: 507.333px;
+		overflow: visible;
+	}
+	#Path_3711 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_3711 {
+		filter: drop-shadow(0px 3px 12px rgba(0, 0, 0, 0.161));
+		overflow: visible;
+		position: absolute;
+		width: 464px;
+		height: 521px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_206 {
+		position: absolute;
+		width: 66.661px;
+		height: 11.336px;
+		left: 345.667px;
+		top: 18.331px;
+		overflow: visible;
+	}
+	#Group_194 {
+		position: absolute;
+		width: 22px;
+		height: 11.334px;
+		left: 42.333px;
+		top: 0.002px;
+		overflow: visible;
+	}
+	#Group_196 {
+		position: absolute;
+		width: 1.328px;
+		height: 4px;
+		left: 65.333px;
+		top: 3.669px;
+		overflow: visible;
+	}
+	#Group_198 {
+		position: absolute;
+		width: 18px;
+		height: 7.334px;
+		left: 44.333px;
+		top: 2.002px;
+		overflow: visible;
+	}
+	#Group_200 {
+		position: absolute;
+		width: 15.272px;
+		height: 10.965px;
+		left: 22.026px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_202 {
+		position: absolute;
+		width: 17px;
+		height: 10.666px;
+		left: 0px;
+		top: 0.336px;
+		overflow: visible;
+	}
+	#n_41 {
+		left: 24px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 173px;
+		height: 20px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(0,0,0,1);
+	}
+	#Merchants {
+		left: 24px;
+		top: 535.223px;
+		position: absolute;
+		overflow: visible;
+		width: 307px;
+		height: 33px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.2px;
+	}
+	#Apply_for_a_loyalty_program_to {
+		left: 24px;
+		top: 569px;
+		position: absolute;
+		overflow: visible;
+		width: 307px;
+		height: 19px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.2px;
+	}
+	#Enjoy_loyalty_programs_spendin {
+		left: 24px;
+		top: 104px;
+		position: absolute;
+		overflow: visible;
+		width: 389px;
+		height: 39px;
+		line-height: 20px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.2px;
+	}
+	#add-to-apple-wallet-logo {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 136px;
+		height: 42px;
+		left: 146px;
+		top: 429px;
+		overflow: visible;
+	}
+	#Group_1278 {
+		position: absolute;
+		width: 331.452px;
+		height: 341.005px;
+		left: 48.939px;
+		top: 120.334px;
+		overflow: visible;
+	}
+	#Group_1276 {
+		position: absolute;
+		width: 330.556px;
+		height: 298px;
+		left: 0.893px;
+		top: 42.832px;
+		overflow: visible;
+	}
+	#Group_1271 {
+		position: absolute;
+		width: 330.556px;
+		height: 298px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1272 {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 40.586px;
+		overflow: visible;
+	}
+	#Group_1231 {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1229_be {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: -0.001px;
+		overflow: visible;
+	}
+	#Group_869_bf {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1170_bh {
+		fill: url(#Rectangle_1170_bh);
+	}
+	.Rectangle_1170_bh {
+		filter: drop-shadow(0px 1px 5px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 344.228px;
+		height: 219.854px;
+		left: 0px;
+		top: 0px;
+	}
+	#Kati_Mak_bi {
+		left: 89.705px;
+		top: 152.069px;
+		position: absolute;
+		overflow: visible;
+		width: 144px;
+		height: 19px;
+		line-height: 20px;
+		margin-top: -3px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#n_124_1233_9731_1398_bj {
+		left: 62.027px;
+		top: 175.861px;
+		position: absolute;
+		overflow: visible;
+		width: 207px;
+		height: 11px;
+		line-height: 20px;
+		margin-top: -6px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.9px;
+	}
+	#Group_1230 {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 40.586px;
+		overflow: visible;
+	}
+	#Group_1231_bd {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1229_be {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: -0.001px;
+		overflow: visible;
+	}
+	#Group_869_bf {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1170_bh {
+		fill: url(#Rectangle_1170_bh);
+	}
+	.Rectangle_1170_bh {
+		filter: drop-shadow(0px 1px 5px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 344.228px;
+		height: 219.854px;
+		left: 0px;
+		top: 0px;
+	}
+	#Kati_Mak_bi {
+		left: 89.705px;
+		top: 152.069px;
+		position: absolute;
+		overflow: visible;
+		width: 144px;
+		height: 19px;
+		line-height: 20px;
+		margin-top: -3px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#n_124_1233_9731_1398_bj {
+		left: 62.027px;
+		top: 175.861px;
+		position: absolute;
+		overflow: visible;
+		width: 207px;
+		height: 11px;
+		line-height: 20px;
+		margin-top: -6px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.9px;
+	}
+	#Group_7613 {
+		position: absolute;
+		width: 16.932px;
+		height: 16.932px;
+		left: 292.094px;
+		top: 57.533px;
+		overflow: visible;
+	}
+	#Sephora-Logo {
+		position: absolute;
+		width: 296.804px;
+		height: 296.803px;
+		left: 16.099px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n_64a9f79-e73f-4aa0-b967-9637f {
+		mix-blend-mode: darken;
+		position: absolute;
+		width: 55.774px;
+		height: 55.775px;
+		left: 40.003px;
+		top: 74.698px;
+		overflow: visible;
+	}
+	#n_64a9f79-e73f-4aa0-b967-9637f_bn {
+		mix-blend-mode: darken;
+		position: absolute;
+		width: 55.774px;
+		height: 55.775px;
+		left: 103.746px;
+		top: 74.698px;
+		overflow: visible;
+	}
+	#n_64a9f79-e73f-4aa0-b967-9637f_bo {
+		mix-blend-mode: darken;
+		position: absolute;
+		width: 55.774px;
+		height: 55.775px;
+		left: 164.501px;
+		top: 74.698px;
+		overflow: visible;
+	}
+	#n_64a9f79-e73f-4aa0-b967-9637f_bp {
+		mix-blend-mode: darken;
+		position: absolute;
+		width: 55.775px;
+		height: 55.775px;
+		left: 229.239px;
+		top: 74.698px;
+		overflow: visible;
+	}
+	#Group_1277 {
+		position: absolute;
+		width: 330.556px;
+		height: 318px;
+		left: 0.432px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1274 {
+		position: absolute;
+		width: 330.556px;
+		height: 318px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1271_bs {
+		position: absolute;
+		width: 330.556px;
+		height: 318px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1272_bt {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 68.473px;
+		overflow: visible;
+	}
+	#Group_1231_bu {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1229_b {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_869_b {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1170_ca {
+		fill: url(#Rectangle_1170_ca);
+	}
+	.Rectangle_1170_ca {
+		filter: drop-shadow(0px 1px 5px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 344.228px;
+		height: 219.854px;
+		left: 0px;
+		top: 0.001px;
+	}
+	#Kati_Mak_b {
+		left: 89.704px;
+		top: 152.07px;
+		position: absolute;
+		overflow: visible;
+		width: 144px;
+		height: 19px;
+		line-height: 20px;
+		margin-top: -3px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#n_124_1233_9731_1398_ca {
+		left: 62.027px;
+		top: 175.862px;
+		position: absolute;
+		overflow: visible;
+		width: 207px;
+		height: 11px;
+		line-height: 20px;
+		margin-top: -6px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.9px;
+	}
+	#Group_1230_b {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 68.473px;
+		overflow: visible;
+	}
+	#Group_1231_b {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1229_b {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_869_b {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1170_ca {
+		fill: url(#Rectangle_1170_ca);
+	}
+	.Rectangle_1170_ca {
+		filter: drop-shadow(0px 1px 5px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 344.228px;
+		height: 219.854px;
+		left: 0px;
+		top: 0.001px;
+	}
+	#Kati_Mak_b {
+		left: 89.704px;
+		top: 152.07px;
+		position: absolute;
+		overflow: visible;
+		width: 144px;
+		height: 19px;
+		line-height: 20px;
+		margin-top: -3px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#n_124_1233_9731_1398_ca {
+		left: 62.027px;
+		top: 175.862px;
+		position: absolute;
+		overflow: visible;
+		width: 207px;
+		height: 11px;
+		line-height: 20px;
+		margin-top: -6px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.9px;
+	}
+	#Group_7613_b {
+		position: absolute;
+		width: 16.932px;
+		height: 16.932px;
+		left: 292.094px;
+		top: 85.422px;
+		overflow: visible;
+	}
+	#Artboard-1-copy-54 {
+		mix-blend-mode: darken;
+		position: absolute;
+		width: 304.771px;
+		height: 316.724px;
+		left: 12.115px;
+		top: -0.001px;
+		overflow: visible;
+	}
+	#cabfoods-oreo-biscuits {
+		mix-blend-mode: darken;
+		position: absolute;
+		width: 128.481px;
+		height: 128.481px;
+		left: 8.191px;
+		top: 47.808px;
+		overflow: visible;
+	}
+	#n_70200172-1-coca-cola-hk-coke {
+		mix-blend-mode: darken;
+		position: absolute;
+		width: 96.636px;
+		height: 96.636px;
+		left: 232.592px;
+		top: 181.256px;
+		overflow: visible;
+	}
+	#Component_34__32 {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 52.005px;
+		overflow: visible;
+	}
+	#Group_1230_ce {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: -0.001px;
+		overflow: visible;
+	}
+	#Group_1231_cf {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1229_cg {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_869_ch {
+		position: absolute;
+		width: 330.556px;
+		height: 205.679px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1170_cj {
+		fill: url(#Rectangle_1170_cj);
+	}
+	.Rectangle_1170_cj {
+		filter: drop-shadow(0px 1px 5px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 344.228px;
+		height: 219.854px;
+		left: 0px;
+		top: 0.001px;
+	}
+	#Lo_Kam_Kiu {
+		left: 89.704px;
+		top: 152.07px;
+		position: absolute;
+		overflow: visible;
+		width: 144px;
+		height: 19px;
+		line-height: 20px;
+		margin-top: -3px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#n_904_1232_5092_8759 {
+		left: 62.027px;
+		top: 175.862px;
+		position: absolute;
+		overflow: visible;
+		width: 207px;
+		height: 11px;
+		line-height: 20px;
+		margin-top: -6px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.9px;
+	}
+	#n_0_points {
+		left: -253px;
+		top: 588px;
+		position: absolute;
+		overflow: visible;
+		width: 307px;
+		height: 27px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#CX_Health_Partners {
+		left: 22.111px;
+		top: 60px;
+		position: absolute;
+		overflow: visible;
+		width: 307px;
+		height: 40px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.2px;
+	}
+	#Logo1500px_900px-01 {
+		position: absolute;
+		width: 246px;
+		height: 148px;
+		left: 95px;
+		top: 194px;
+		overflow: visible;
+	}
+	#cathay_cx {
+		position: absolute;
+		width: 32px;
+		height: 32px;
+		left: 331.304px;
+		top: 188.008px;
+		overflow: visible;
+	}
+	#Ellipse_152 {
+		fill: rgba(0,102,90,1);
+	}
+	.Ellipse_152 {
+		filter: drop-shadow(0px 3px 4px rgba(0, 0, 0, 0.161));
+		width: 32px;
+		height: 32px;
+		position: absolute;
+		overflow: visible;
+		transform: matrix(1,0,0,1,370.4996,531.7232) rotate(269deg);
+		transform-origin: center;
+	}
+	#Path_3721 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3721 {
+		overflow: visible;
+		position: absolute;
+		width: 10.345px;
+		height: 17.257px;
+		transform: matrix(1,0,0,1,381.3262,540.6182) rotate(90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		--web-animation: fadein 0.3s wind-up;
+		--web-action-type: page;
+		--web-action-target: iPhone_12_Pro_Max___67.html;
+		cursor: pointer;
+	}
+	#Repeat_Grid_73 {
+		position: absolute;
+		width: 547.133px;
+		height: 1456px;
+		left: 0px;
+		top: 598px;
+		overflow: hidden;
+	}
+	#Group {
+		position: absolute;
+		width: 547.133px;
+		height: 807.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1310 {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1250 {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1247 {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1249 {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1245 {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_447 {
+		position: absolute;
+		width: 216.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#bg {
+		fill: rgba(199,16,45,1);
+	}
+	.bg {
+		overflow: visible;
+		position: absolute;
+		width: 216.133px;
+		height: 255.063px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Avatars {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 24.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6 {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3 {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5 {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask {
+		fill: rgba(199,16,45,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_c {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_c {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8 {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1 {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7 {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_dc {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars_dd {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 43.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_de {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_df {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_dg {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_dh {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_di {
+		fill: rgba(199,16,45,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_di {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_dj {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_dk {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_dl {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_dm {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_dn {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_do {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Redeemed_by_Brayden_Tiffany__3 {
+		left: 26.133px;
+		top: 152px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		height: 11px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_449 {
+		position: absolute;
+		width: 109px;
+		height: 23.906px;
+		left: 19.633px;
+		top: 214.374px;
+		overflow: visible;
+	}
+	#Rectangle_1065 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1065 {
+		position: absolute;
+		overflow: visible;
+		width: 108.336px;
+		height: 23.906px;
+		left: 0px;
+		top: 0px;
+	}
+	#Redeem {
+		left: 0px;
+		top: 4.71px;
+		position: absolute;
+		overflow: visible;
+		width: 110px;
+		height: 17px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(10,46,93,1);
+		letter-spacing: 0.2px;
+	}
+	#unnamed_6 {
+		position: absolute;
+		width: 180px;
+		height: 84px;
+		left: 11.133px;
+		top: 37px;
+		overflow: visible;
+	}
+	#Group_1311 {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 223px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1250_dv {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1249_dw {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_447_dx {
+		position: absolute;
+		width: 216.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#bg_dy {
+		fill: rgba(16,143,199,1);
+	}
+	.bg_dy {
+		overflow: visible;
+		position: absolute;
+		width: 216.133px;
+		height: 255.063px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Avatars_dz {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 24.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_d {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_d {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_d {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_d {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_d {
+		fill: rgba(16,143,199,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_d {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_ea {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_ea {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_d {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_d {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_d {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_eb {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars_eb {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 43.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_ec {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_ed {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_ee {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_ef {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_eg {
+		fill: rgba(16,143,199,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_eg {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_eh {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_ei {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_ej {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_ek {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_el {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_em {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Redeemed_by_Brayden_Tiffany__3_en {
+		left: 26.133px;
+		top: 152px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		height: 11px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_449_eo {
+		position: absolute;
+		width: 109px;
+		height: 23.906px;
+		left: 19.633px;
+		top: 214.374px;
+		overflow: visible;
+	}
+	#Rectangle_1065_ep {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1065_ep {
+		position: absolute;
+		overflow: visible;
+		width: 108.336px;
+		height: 23.906px;
+		left: 0px;
+		top: 0px;
+	}
+	#Redeem_eq {
+		left: 0px;
+		top: 4.71px;
+		position: absolute;
+		overflow: visible;
+		width: 110px;
+		height: 17px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(10,46,93,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_1250_er {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 276px;
+		overflow: visible;
+	}
+	#Group_1247_es {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_447_et {
+		position: absolute;
+		width: 216.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#bg_eu {
+		fill: rgba(0,0,0,1);
+	}
+	.bg_eu {
+		overflow: visible;
+		position: absolute;
+		width: 216.133px;
+		height: 255.063px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Avatars_ev {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 24.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_ew {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_ex {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_ey {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_ez {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_e {
+		fill: rgba(0,0,0,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_e {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_fa {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_e {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_e {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_e {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_e {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_fb {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars_e {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 43.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_fa {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_e {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_fa {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_fb {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_fc {
+		fill: rgba(0,0,0,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_fc {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_fd {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_fe {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_ff {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_fg {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_fh {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_fi {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Redeemed_by_Brayden_Tiffany__3_fj {
+		left: 26.133px;
+		top: 152px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		height: 11px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_449_fk {
+		position: absolute;
+		width: 109px;
+		height: 23.906px;
+		left: 19.633px;
+		top: 214.374px;
+		overflow: visible;
+	}
+	#Rectangle_1065_fl {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1065_fl {
+		position: absolute;
+		overflow: visible;
+		width: 108.336px;
+		height: 23.906px;
+		left: 0px;
+		top: 0px;
+	}
+	#Redeem_fm {
+		left: 0px;
+		top: 4.71px;
+		position: absolute;
+		overflow: visible;
+		width: 110px;
+		height: 17px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(10,46,93,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_1250_fn {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 223px;
+		top: 276px;
+		overflow: visible;
+	}
+	#Group_1247_fo {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1249_fp {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_447_fq {
+		position: absolute;
+		width: 216.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#bg_fr {
+		fill: rgba(95,149,125,1);
+	}
+	.bg_fr {
+		overflow: visible;
+		position: absolute;
+		width: 216.133px;
+		height: 255.063px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Avatars_fs {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 24.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_ft {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_fu {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_fv {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_fw {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_fx {
+		fill: rgba(95,149,125,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_fx {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_fy {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_fz {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_f {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_f {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_f {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_f {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars_f {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 43.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_f {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_f {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_f {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_f {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_ga {
+		fill: rgba(95,149,125,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_ga {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_gb {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_gb {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_gc {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_gd {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_ge {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_gf {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Redeemed_by_Brayden_Tiffany__3_gg {
+		left: 26.133px;
+		top: 152px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		height: 11px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_449_gh {
+		position: absolute;
+		width: 109px;
+		height: 23.906px;
+		left: 19.633px;
+		top: 214.374px;
+		overflow: visible;
+	}
+	#Rectangle_1065_gi {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1065_gi {
+		position: absolute;
+		overflow: visible;
+		width: 108.336px;
+		height: 23.906px;
+		left: 0px;
+		top: 0px;
+	}
+	#Redeem_gj {
+		left: 0px;
+		top: 4.71px;
+		position: absolute;
+		overflow: visible;
+		width: 110px;
+		height: 17px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(10,46,93,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_1316 {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 552px;
+		overflow: visible;
+	}
+	#Group_1249_gl {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_447_gm {
+		position: absolute;
+		width: 216.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#bg_gn {
+		fill: rgba(78,135,160,1);
+	}
+	.bg_gn {
+		overflow: visible;
+		position: absolute;
+		width: 216.133px;
+		height: 255.063px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Avatars_go {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 24.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_gp {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_gq {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_gr {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_gs {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_gt {
+		fill: rgba(78,135,160,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_gt {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_gu {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_gv {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_gw {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_gx {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_gy {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_gz {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars_g {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 43.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_g {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_g {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_g {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_g {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_g {
+		fill: rgba(78,135,160,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_g {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_ha {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_ha {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_g {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_g {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_ha {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_hb {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Redeemed_by_Brayden_Tiffany__3_hc {
+		left: 26.133px;
+		top: 152px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		height: 11px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_449_hd {
+		position: absolute;
+		width: 109px;
+		height: 23.906px;
+		left: 19.633px;
+		top: 214.374px;
+		overflow: visible;
+	}
+	#Rectangle_1065_he {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1065_he {
+		position: absolute;
+		overflow: visible;
+		width: 108.336px;
+		height: 23.906px;
+		left: 0px;
+		top: 0px;
+	}
+	#Redeem_hf {
+		left: 0px;
+		top: 4.71px;
+		position: absolute;
+		overflow: visible;
+		width: 110px;
+		height: 17px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(10,46,93,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_1250_hg {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 223px;
+		top: 552px;
+		overflow: visible;
+	}
+	#Group_1247_hh {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1249_hi {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1245_hj {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_447_hk {
+		position: absolute;
+		width: 216.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#bg_hl {
+		fill: rgba(250,216,7,1);
+	}
+	.bg_hl {
+		overflow: visible;
+		position: absolute;
+		width: 216.133px;
+		height: 255.063px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Avatars_hm {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 24.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_hn {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_ho {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_hp {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_hq {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_hr {
+		fill: rgba(250,216,7,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_hr {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_hs {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_ht {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_hu {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_hv {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_hw {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_hx {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars_hy {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 43.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_hz {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_h {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_h {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_h {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_h {
+		fill: rgba(250,216,7,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_h {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_ia {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_h {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_h {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_h {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_h {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_ib {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Redeemed_by_Brayden_Tiffany__3_ia {
+		left: 26.133px;
+		top: 152px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		height: 11px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(250,216,7,1);
+		letter-spacing: 0.2px;
+	}
+	#Logo1500px_900px-01_ib {
+		position: absolute;
+		width: 147px;
+		height: 88px;
+		left: 242.133px;
+		top: 33px;
+		overflow: visible;
+	}
+	#download_8 {
+		position: absolute;
+		width: 174px;
+		height: 74px;
+		left: 22.133px;
+		top: 294px;
+		overflow: visible;
+	}
+	#quality_healthcare-logo {
+		mix-blend-mode: darken;
+		position: absolute;
+		width: 165px;
+		height: 99px;
+		left: 242.133px;
+		top: 305px;
+		overflow: visible;
+	}
+	#download_7 {
+		mix-blend-mode: multiply;
+		position: absolute;
+		width: 169px;
+		height: 169px;
+		left: 22.133px;
+		top: 552px;
+		overflow: visible;
+	}
+	#INVIS_Logo_Asiamile {
+		position: absolute;
+		width: 214px;
+		height: 129px;
+		left: 208.133px;
+		top: 564px;
+		overflow: visible;
+	}
+	#Group_1326 {
+		position: absolute;
+		width: 109px;
+		height: 23.906px;
+		left: 237.633px;
+		top: 766.374px;
+		overflow: visible;
+	}
+	#Rectangle_1065_ih {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1065_ih {
+		position: absolute;
+		overflow: visible;
+		width: 108.336px;
+		height: 23.906px;
+		left: 0px;
+		top: 0px;
+	}
+	#Redeem_ii {
+		left: 0px;
+		top: 4.71px;
+		position: absolute;
+		overflow: visible;
+		width: 110px;
+		height: 17px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(10,46,93,1);
+		letter-spacing: 0.2px;
+	}
+	#Redeemed_by_Brayden_Tiffany__3_ij {
+		left: 242.133px;
+		top: 707px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		height: 11px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(11,11,11,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_ik {
+		position: absolute;
+		width: 547.133px;
+		height: 807.064px;
+		left: 0px;
+		top: 828px;
+		overflow: visible;
+	}
+	#Group_1310_il {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1250_im {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1247_in {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1249_io {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1245_ip {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_447_iq {
+		position: absolute;
+		width: 216.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#bg_ir {
+		fill: rgba(199,16,45,1);
+	}
+	.bg_ir {
+		overflow: visible;
+		position: absolute;
+		width: 216.133px;
+		height: 255.063px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Avatars_is {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 24.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_it {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_iu {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_iv {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_iw {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_ix {
+		fill: rgba(199,16,45,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_ix {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_iy {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_iz {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_i {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_i {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_i {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_i {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars_i {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 43.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_i {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_i {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_i {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_i {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_ja {
+		fill: rgba(199,16,45,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_ja {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_jb {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_jb {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_jc {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_jd {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_je {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_jf {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Redeemed_by_Brayden_Tiffany__3_jg {
+		left: 26.133px;
+		top: 152px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		height: 11px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_449_jh {
+		position: absolute;
+		width: 109px;
+		height: 23.906px;
+		left: 19.633px;
+		top: 214.374px;
+		overflow: visible;
+	}
+	#Rectangle_1065_ji {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1065_ji {
+		position: absolute;
+		overflow: visible;
+		width: 108.336px;
+		height: 23.906px;
+		left: 0px;
+		top: 0px;
+	}
+	#Redeem_jj {
+		left: 0px;
+		top: 4.71px;
+		position: absolute;
+		overflow: visible;
+		width: 110px;
+		height: 17px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(10,46,93,1);
+		letter-spacing: 0.2px;
+	}
+	#unnamed_6_jk {
+		position: absolute;
+		width: 180px;
+		height: 84px;
+		left: 11.133px;
+		top: 37px;
+		overflow: visible;
+	}
+	#Group_1311_jl {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 223px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1250_jm {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1249_jn {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_447_jo {
+		position: absolute;
+		width: 216.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#bg_jp {
+		fill: rgba(16,143,199,1);
+	}
+	.bg_jp {
+		overflow: visible;
+		position: absolute;
+		width: 216.133px;
+		height: 255.063px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Avatars_jq {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 24.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_jr {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_js {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_jt {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_ju {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_jv {
+		fill: rgba(16,143,199,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_jv {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_jw {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_jx {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_jy {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_jz {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_j {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_j {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars_j {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 43.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_j {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_j {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_j {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_j {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_ka {
+		fill: rgba(16,143,199,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_ka {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_kb {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_ka {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_ka {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_kb {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_kc {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_kd {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Redeemed_by_Brayden_Tiffany__3_ke {
+		left: 26.133px;
+		top: 152px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		height: 11px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_449_kf {
+		position: absolute;
+		width: 109px;
+		height: 23.906px;
+		left: 19.633px;
+		top: 214.374px;
+		overflow: visible;
+	}
+	#Rectangle_1065_kg {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1065_kg {
+		position: absolute;
+		overflow: visible;
+		width: 108.336px;
+		height: 23.906px;
+		left: 0px;
+		top: 0px;
+	}
+	#Redeem_kh {
+		left: 0px;
+		top: 4.71px;
+		position: absolute;
+		overflow: visible;
+		width: 110px;
+		height: 17px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(10,46,93,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_1250_ki {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 276px;
+		overflow: visible;
+	}
+	#Group_1247_kj {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_447_kk {
+		position: absolute;
+		width: 216.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#bg_kl {
+		fill: rgba(0,0,0,1);
+	}
+	.bg_kl {
+		overflow: visible;
+		position: absolute;
+		width: 216.133px;
+		height: 255.063px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Avatars_km {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 24.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_kn {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_ko {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_kp {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_kq {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_kr {
+		fill: rgba(0,0,0,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_kr {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_ks {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_kt {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_ku {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_kv {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_kw {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_kx {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars_ky {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 43.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_kz {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_k {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_k {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_k {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_k {
+		fill: rgba(0,0,0,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_k {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_la {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_k {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_k {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_k {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_k {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_lb {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Redeemed_by_Brayden_Tiffany__3_la {
+		left: 26.133px;
+		top: 152px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		height: 11px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_449_lb {
+		position: absolute;
+		width: 109px;
+		height: 23.906px;
+		left: 19.633px;
+		top: 214.374px;
+		overflow: visible;
+	}
+	#Rectangle_1065_lc {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1065_lc {
+		position: absolute;
+		overflow: visible;
+		width: 108.336px;
+		height: 23.906px;
+		left: 0px;
+		top: 0px;
+	}
+	#Redeem_ld {
+		left: 0px;
+		top: 4.71px;
+		position: absolute;
+		overflow: visible;
+		width: 110px;
+		height: 17px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(10,46,93,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_1250_le {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 223px;
+		top: 276px;
+		overflow: visible;
+	}
+	#Group_1247_lf {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1249_lg {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_447_lh {
+		position: absolute;
+		width: 216.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#bg_li {
+		fill: rgba(95,149,125,1);
+	}
+	.bg_li {
+		overflow: visible;
+		position: absolute;
+		width: 216.133px;
+		height: 255.063px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Avatars_lj {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 24.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_lk {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_ll {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_lm {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_ln {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_lo {
+		fill: rgba(95,149,125,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_lo {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_lp {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_lq {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_lr {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_ls {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_lt {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_lu {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars_lv {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 43.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_lw {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_lx {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_ly {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_lz {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_l {
+		fill: rgba(95,149,125,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_l {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_ma {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_l {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_l {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_l {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_l {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_mb {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Redeemed_by_Brayden_Tiffany__3_l {
+		left: 26.133px;
+		top: 152px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		height: 11px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_449_l {
+		position: absolute;
+		width: 109px;
+		height: 23.906px;
+		left: 19.633px;
+		top: 214.374px;
+		overflow: visible;
+	}
+	#Rectangle_1065_l {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1065_l {
+		position: absolute;
+		overflow: visible;
+		width: 108.336px;
+		height: 23.906px;
+		left: 0px;
+		top: 0px;
+	}
+	#Redeem_ma {
+		left: 0px;
+		top: 4.71px;
+		position: absolute;
+		overflow: visible;
+		width: 110px;
+		height: 17px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(10,46,93,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_1316_mb {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 552px;
+		overflow: visible;
+	}
+	#Group_1249_mc {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_447_md {
+		position: absolute;
+		width: 216.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#bg_me {
+		fill: rgba(78,135,160,1);
+	}
+	.bg_me {
+		overflow: visible;
+		position: absolute;
+		width: 216.133px;
+		height: 255.063px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Avatars_mf {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 24.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_mg {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_mh {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_mi {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_mj {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_mk {
+		fill: rgba(78,135,160,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_mk {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_ml {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_mm {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_mn {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_mo {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_mp {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_mq {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars_mr {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 43.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_ms {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_mt {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_mu {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_mv {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_mw {
+		fill: rgba(78,135,160,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_mw {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_mx {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_my {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_mz {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_m {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_m {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_m {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Redeemed_by_Brayden_Tiffany__3_m {
+		left: 26.133px;
+		top: 152px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		height: 11px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_449_m {
+		position: absolute;
+		width: 109px;
+		height: 23.906px;
+		left: 19.633px;
+		top: 214.374px;
+		overflow: visible;
+	}
+	#Rectangle_1065_m {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1065_m {
+		position: absolute;
+		overflow: visible;
+		width: 108.336px;
+		height: 23.906px;
+		left: 0px;
+		top: 0px;
+	}
+	#Redeem_m {
+		left: 0px;
+		top: 4.71px;
+		position: absolute;
+		overflow: visible;
+		width: 110px;
+		height: 17px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(10,46,93,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_1250_m {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 223px;
+		top: 552px;
+		overflow: visible;
+	}
+	#Group_1247_m {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1249_m {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1245_na {
+		position: absolute;
+		width: 324.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_447_nb {
+		position: absolute;
+		width: 216.133px;
+		height: 255.064px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#bg_nc {
+		fill: rgba(250,216,7,1);
+	}
+	.bg_nc {
+		overflow: visible;
+		position: absolute;
+		width: 216.133px;
+		height: 255.063px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Avatars_nd {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 24.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_ne {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_nf {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_ng {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_nh {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_ni {
+		fill: rgba(250,216,7,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_ni {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_nj {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_nk {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_nl {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_nm {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_nn {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_no {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars_np {
+		position: absolute;
+		width: 35px;
+		height: 18px;
+		left: 43.133px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Avatar_nq {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 17px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_6_nr {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars3_ns {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_5_nt {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_nu {
+		fill: rgba(250,216,7,1);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Mask_nu {
+		position: absolute;
+		overflow: visible;
+		width: 22px;
+		height: 22px;
+		left: 0px;
+		top: 0px;
+	}
+	#Mask_nv {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatar_nw {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_8_nx {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Avatars1_ny {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_7_nz {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Mask_n {
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Redeemed_by_Brayden_Tiffany__3_n {
+		left: 26.133px;
+		top: 152px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		height: 11px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(250,216,7,1);
+		letter-spacing: 0.2px;
+	}
+	#Logo1500px_900px-01_n {
+		position: absolute;
+		width: 147px;
+		height: 88px;
+		left: 242.133px;
+		top: 33px;
+		overflow: visible;
+	}
+	#download_8_n {
+		position: absolute;
+		width: 174px;
+		height: 74px;
+		left: 22.133px;
+		top: 294px;
+		overflow: visible;
+	}
+	#quality_healthcare-logo_n {
+		mix-blend-mode: darken;
+		position: absolute;
+		width: 165px;
+		height: 99px;
+		left: 242.133px;
+		top: 305px;
+		overflow: visible;
+	}
+	#download_7_n {
+		mix-blend-mode: multiply;
+		position: absolute;
+		width: 169px;
+		height: 169px;
+		left: 22.133px;
+		top: 552px;
+		overflow: visible;
+	}
+	#INVIS_Logo_Asiamile_n {
+		position: absolute;
+		width: 214px;
+		height: 129px;
+		left: 208.133px;
+		top: 564px;
+		overflow: visible;
+	}
+	#Group_1326_n {
+		position: absolute;
+		width: 109px;
+		height: 23.906px;
+		left: 237.633px;
+		top: 766.374px;
+		overflow: visible;
+	}
+	#Rectangle_1065_n {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1065_n {
+		position: absolute;
+		overflow: visible;
+		width: 108.336px;
+		height: 23.906px;
+		left: 0px;
+		top: 0px;
+	}
+	#Redeem_n {
+		left: 0px;
+		top: 4.71px;
+		position: absolute;
+		overflow: visible;
+		width: 110px;
+		height: 17px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(10,46,93,1);
+		letter-spacing: 0.2px;
+	}
+	#Redeemed_by_Brayden_Tiffany__3_oa {
+		left: 242.133px;
+		top: 707px;
+		position: absolute;
+		overflow: visible;
+		width: 299px;
+		height: 11px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 8px;
+		color: rgba(11,11,11,1);
+		letter-spacing: 0.2px;
+	}
+	#View_Leaderboard {
+		left: 61px;
+		top: 477px;
+		position: absolute;
+		overflow: visible;
+		width: 307px;
+		height: 20px;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: iPhone_12_Pro_Max___70.html;
+		cursor: pointer;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(49,62,72,1);
+		letter-spacing: 0.2px;
+		text-decoration: underline;
+	}

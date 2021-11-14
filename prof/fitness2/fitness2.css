@@ -1,0 +1,974 @@
+
+	.mediaViewInfo {
+		--web-view-name: iPhone 12 Pro Max – 68;
+		--web-view-id: iPhone_12_Pro_Max__68;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: iPhone_12_Pro_Max__68;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_12_Pro_Max__68 {
+		position: absolute;
+		width: 428px;
+		height: 926px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 12 Pro Max – 68;
+		--web-view-id: iPhone_12_Pro_Max__68;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#n_0_points {
+		left: -253px;
+		top: 588px;
+		position: absolute;
+		overflow: visible;
+		width: 307px;
+		height: 27px;
+		text-align: left;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#Rectangle_1258 {
+		fill: rgba(250,216,7,1);
+	}
+	.Rectangle_1258 {
+		position: absolute;
+		overflow: visible;
+		width: 430px;
+		height: 244px;
+		left: -2px;
+		top: 0px;
+	}
+	#n_43b0022-4109-4cd3-ba71-96199 {
+		position: absolute;
+		width: 378px;
+		height: 146px;
+		left: 4px;
+		top: 15px;
+		overflow: visible;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: iPhone_XR__XS_Max__11___3.html;
+		cursor: pointer;
+	}
+	#Group_1309 {
+		position: absolute;
+		width: 66.661px;
+		height: 11.336px;
+		left: 348.503px;
+		top: 15.331px;
+		overflow: visible;
+	}
+	#Group_194 {
+		position: absolute;
+		width: 22px;
+		height: 11.333px;
+		left: 42.333px;
+		top: 0.002px;
+		overflow: visible;
+	}
+	#Group_196 {
+		position: absolute;
+		width: 1.328px;
+		height: 4px;
+		left: 65.333px;
+		top: 3.669px;
+		overflow: visible;
+	}
+	#Group_198 {
+		position: absolute;
+		width: 18px;
+		height: 7.333px;
+		left: 44.333px;
+		top: 2.002px;
+		overflow: visible;
+	}
+	#Group_200 {
+		position: absolute;
+		width: 15.272px;
+		height: 10.966px;
+		left: 22.026px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_202 {
+		position: absolute;
+		width: 17px;
+		height: 10.667px;
+		left: 0px;
+		top: 0.336px;
+		overflow: visible;
+	}
+	#n_41 {
+		left: 21px;
+		top: 10.999px;
+		position: absolute;
+		overflow: visible;
+		width: 173px;
+		height: 20px;
+		text-align: left;
+		font-family: Avenir;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(0,0,0,1);
+	}
+	#Group_1327 {
+		position: absolute;
+		width: 217px;
+		height: 69px;
+		left: 118px;
+		top: 152px;
+		overflow: visible;
+	}
+	#Lo_Kam_Kiu__ID_104201123_View_ {
+		left: 0px;
+		top: 3px;
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		height: 66px;
+		text-align: left;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+	}
+	#view_settings{
+		position: relative;
+		top: -20px;
+	}
+	#Ellipse_149 {
+		fill: rgba(193,179,153,1);
+	}
+	.Ellipse_149 {
+		filter: drop-shadow(0px 3px 4px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 44px;
+		left: 185px;
+		top: 0px;
+	}
+	#Path_3717 {
+		fill: transparent;
+		stroke: rgba(49,62,71,1);
+		stroke-width: 2px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3717 {
+		overflow: visible;
+		position: absolute;
+		width: 12.755px;
+		height: 20.073px;
+		left: 196.526px;
+		top: 7.371px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Group_1303 {
+		position: absolute;
+		width: 353px;
+		height: 167.008px;
+		left: 37.5px;
+		top: 285px;
+		overflow: visible;
+	}
+	#Rectangle_1262 {
+		opacity: 0.268;
+		fill: rgba(95,149,125,1);
+	}
+	.Rectangle_1262 {
+		filter: drop-shadow(4px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 370px;
+		height: 185.008px;
+		left: 0px;
+		top: 0px;
+	}
+	#cathay_cx {
+		position: absolute;
+		width: 78px;
+		height: 78px;
+		left: 23px;
+		top: 70.008px;
+		overflow: visible;
+	}
+	#CX_Health_Points {
+		left: 0px;
+		top: 28.287px;
+		position: absolute;
+		overflow: visible;
+		width: 354px;
+		height: 39px;
+		text-align: center;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(49,62,71,1);
+	}
+	#n_5320 {
+		opacity: 0.65;
+		left: 101px;
+		top: 65.008px;
+		position: absolute;
+		overflow: visible;
+		width: 222px;
+		height: 73px;
+		text-align: center;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 65px;
+		color: rgba(0,93,99,1);
+	}
+	#WhatsApp_Image_2021-11-13_at_5 {
+		position: absolute;
+		width: 76px;
+		height: 76px;
+		left: 28px;
+		top: 149px;
+		overflow: visible;
+	}
+	#Level {
+		left: 25px;
+		top: 582px;
+		position: absolute;
+		overflow: visible;
+		width: 27px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -14px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(53,38,65,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Group_1328 {
+		position: absolute;
+		width: 377px;
+		height: 116px;
+		left: 26px;
+		top: 480px;
+		overflow: visible;
+	}
+	#Component_10__7 {
+		position: absolute;
+		width: 377px;
+		height: 98px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1126 {
+		opacity: 0.148;
+		fill: rgba(191,191,191,1);
+	}
+	.Rectangle_1126 {
+		position: absolute;
+		overflow: visible;
+		width: 357px;
+		height: 25px;
+		left: 1px;
+		top: 37px;
+	}
+	#Rectangle_1127 {
+		fill: rgba(253,215,0,1);
+	}
+	.Rectangle_1127 {
+		position: absolute;
+		overflow: visible;
+		width: 266px;
+		height: 25px;
+		left: 0px;
+		top: 37px;
+	}
+	#Repeat_Grid_24 {
+		position: absolute;
+		width: 377px;
+		height: 18px;
+		left: 0px;
+		top: 80px;
+		overflow: hidden;
+	}
+	#Group {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: -12px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n_ {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_bg {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: 72px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n__bh {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_bi {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: 156px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n__bj {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_bk {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: 240px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n__bl {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_bm {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: 324px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n__bn {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Health {
+		left: 4px;
+		top: -1px;
+		position: absolute;
+		overflow: visible;
+		width: 47px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -12.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(53,38,65,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Level_bp {
+		left: 337px;
+		top: 100px;
+		position: absolute;
+		overflow: visible;
+		width: 27px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -14px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(53,38,65,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Group_1330 {
+		position: absolute;
+		width: 378px;
+		height: 116px;
+		left: 25px;
+		top: 627px;
+		overflow: visible;
+	}
+	#Group_1329 {
+		position: absolute;
+		width: 377px;
+		height: 116px;
+		left: 1px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Component_10__8 {
+		position: absolute;
+		width: 377px;
+		height: 98px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1126_bt {
+		opacity: 0.148;
+		fill: rgba(191,191,191,1);
+	}
+	.Rectangle_1126_bt {
+		position: absolute;
+		overflow: visible;
+		width: 357px;
+		height: 25px;
+		left: 1px;
+		top: 37px;
+	}
+	#Rectangle_1127_bu {
+		fill: rgba(253,215,0,1);
+	}
+	.Rectangle_1127_bu {
+		position: absolute;
+		overflow: visible;
+		width: 308px;
+		height: 25px;
+		left: 0px;
+		top: 37px;
+	}
+	#Repeat_Grid_24_bv {
+		position: absolute;
+		width: 377px;
+		height: 18px;
+		left: 0px;
+		top: 80px;
+		overflow: hidden;
+	}
+	#Group_bw {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: -12px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n__bx {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_by {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: 72px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n__bz {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_b {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: 156px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n__b {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_ca {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: 240px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n__ca {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_cb {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: 324px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n__cb {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Fitness {
+		left: 4px;
+		top: -1px;
+		position: absolute;
+		overflow: visible;
+		width: 47px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -12.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(53,38,65,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Level_b {
+		left: 337px;
+		top: 100px;
+		position: absolute;
+		overflow: visible;
+		width: 27px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -14px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(53,38,65,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Level_ca {
+		left: 0px;
+		top: 100px;
+		position: absolute;
+		overflow: visible;
+		width: 27px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -14px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(53,38,65,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Group_1331 {
+		position: absolute;
+		width: 380px;
+		height: 116px;
+		left: 24px;
+		top: 771px;
+		overflow: visible;
+	}
+	#Group_1329_ca {
+		position: absolute;
+		width: 380px;
+		height: 116px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Component_10__9 {
+		position: absolute;
+		width: 380px;
+		height: 98px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1126_cc {
+		opacity: 0.148;
+		fill: rgba(191,191,191,1);
+	}
+	.Rectangle_1126_cc {
+		position: absolute;
+		overflow: visible;
+		width: 357px;
+		height: 25px;
+		left: 4px;
+		top: 37px;
+	}
+	#Rectangle_1127_cd {
+		fill: rgba(253,215,0,1);
+	}
+	.Rectangle_1127_cd {
+		position: absolute;
+		overflow: visible;
+		width: 187px;
+		height: 25px;
+		left: 3px;
+		top: 37px;
+	}
+	#Repeat_Grid_24_ce {
+		position: absolute;
+		width: 377px;
+		height: 18px;
+		left: 3px;
+		top: 80px;
+		overflow: hidden;
+	}
+	#Group_cf {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: -12px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n__cg {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_ch {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: 72px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n__ci {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_cj {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: 156px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n__ck {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_cl {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: 240px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n__cm {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Group_cn {
+		position: absolute;
+		width: 43px;
+		height: 20px;
+		left: 324px;
+		top: 0px;
+		overflow: visible;
+	}
+	#n__co {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 20px;
+		text-align: center;
+		font-family: SF UI Display;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(10,46,92,1);
+		letter-spacing: 0.2px;
+	}
+	#Gaming {
+		left: 3px;
+		top: -1px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -12.5px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(53,38,65,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Level_cq {
+		left: 340px;
+		top: 100px;
+		position: absolute;
+		overflow: visible;
+		width: 27px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -14px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(53,38,65,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Level_cr {
+		left: 2px;
+		top: 100px;
+		position: absolute;
+		overflow: visible;
+		width: 27px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -14px;
+		text-align: center;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(53,38,65,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#out_of_124989_points_gained_ {
+		opacity: 0.65;
+		left: 92px;
+		top: 428.008px;
+		position: absolute;
+		overflow: visible;
+		width: 313px;
+		height: 15px;
+		text-align: center;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(49,62,71,1);
+	}
+	#n_240_points_till_next_level {
+		opacity: 0.65;
+		left: 58px;
+		top: 586px;
+		position: absolute;
+		overflow: visible;
+		width: 313px;
+		height: 11px;
+		text-align: center;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(106,119,122,1);
+	}
+	#n_024_points_till_next_level {
+		opacity: 0.65;
+		left: 58px;
+		top: 733px;
+		position: absolute;
+		overflow: visible;
+		width: 313px;
+		height: 11px;
+		text-align: center;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(106,119,122,1);
+	}
+	#n_124_points_till_next_level {
+		opacity: 0.65;
+		left: 58px;
+		top: 877px;
+		position: absolute;
+		overflow: visible;
+		width: 313px;
+		height: 11px;
+		text-align: center;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(106,119,122,1);
+	}

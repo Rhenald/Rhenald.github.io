@@ -1,0 +1,8076 @@
+.mediaViewInfo {
+    --web-view-name: iPhone 12 Pro Max – 71;
+    --web-view-id: iPhone_12_Pro_Max__71;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: iPhone_12_Pro_Max__71;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#iPhone_12_Pro_Max__71 {
+    position: absolute;
+    width: 428px;
+    height: 926px;
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    --web-view-name: iPhone 12 Pro Max – 71;
+    --web-view-id: iPhone_12_Pro_Max__71;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+@keyframes fadein {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+#a37bff8396612d37aa46da65eb38f3 {
+    position: absolute;
+    width: 383px;
+    height: 383px;
+    left: 23px;
+    top: 41px;
+    overflow: visible;
+}
+#Group_1309 {
+    position: absolute;
+    width: 66.661px;
+    height: 11.336px;
+    left: 348.503px;
+    top: 15.331px;
+    overflow: visible;
+}
+#Group_194 {
+    position: absolute;
+    width: 22px;
+    height: 11.333px;
+    left: 42.333px;
+    top: 0.002px;
+    overflow: visible;
+}
+#Group_196 {
+    position: absolute;
+    width: 1.328px;
+    height: 4px;
+    left: 65.333px;
+    top: 3.669px;
+    overflow: visible;
+}
+#Group_198 {
+    position: absolute;
+    width: 18px;
+    height: 7.333px;
+    left: 44.333px;
+    top: 2.002px;
+    overflow: visible;
+}
+#Group_200 {
+    position: absolute;
+    width: 15.272px;
+    height: 10.966px;
+    left: 22.026px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_202 {
+    position: absolute;
+    width: 17px;
+    height: 10.667px;
+    left: 0px;
+    top: 0.336px;
+    overflow: visible;
+}
+#n_41 {
+    left: 21px;
+    top: 10.999px;
+    position: absolute;
+    overflow: visible;
+    width: 173px;
+    height: 20px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 1);
+}
+#Group_1337 {
+    position: absolute;
+    width: 352.083px;
+    height: 275.016px;
+    left: 37.958px;
+    top: 408px;
+    overflow: visible;
+}
+#Rectangle_1262 {
+    fill: rgba(255, 239, 114, 1);
+}
+.Rectangle_1262 {
+    filter: drop-shadow(4px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 98.008px;
+    left: 0.001px;
+    top: 195.008px;
+}
+#COVID-19_Vaccination {
+    left: 19.083px;
+    top: 213.012px;
+    position: absolute;
+    overflow: visible;
+    width: 334px;
+    height: 27px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 1);
+    letter-spacing: 0.2px;
+}
+#Rectangle_1381 {
+    fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_1381 {
+    filter: drop-shadow(4px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 213.008px;
+    left: 0.001px;
+    top: 0px;
+}
+#LO_KAM_KIU {
+    left: 25.083px;
+    top: 44.008px;
+    position: absolute;
+    overflow: visible;
+    width: 147px;
+    height: 28px;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(23, 23, 23, 1);
+}
+#Name {
+    left: 25.083px;
+    top: 22.008px;
+    position: absolute;
+    overflow: visible;
+    width: 147px;
+    height: 17px;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(106, 119, 122, 1);
+}
+#Y790000_0 {
+    left: 25.083px;
+    top: 98.008px;
+    position: absolute;
+    overflow: visible;
+    width: 147px;
+    height: 28px;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(23, 23, 23, 1);
+}
+#Identity_Document_No {
+    left: 25.083px;
+    top: 76.008px;
+    position: absolute;
+    overflow: visible;
+    width: 147px;
+    height: 17px;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(106, 119, 122, 1);
+}
+#Group_1336 {
+    position: absolute;
+    width: 146px;
+    height: 34px;
+    left: 25.083px;
+    top: 144.008px;
+    overflow: visible;
+}
+#n_20521 {
+    left: 0px;
+    top: 14px;
+    position: absolute;
+    overflow: visible;
+    width: 147px;
+    height: 20px;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(23, 23, 23, 1);
+}
+#First_Dose_Date {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 147px;
+    height: 9px;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 8px;
+    color: rgba(106, 119, 122, 1);
+}
+#n_30621 {
+    left: 206.083px;
+    top: 156.008px;
+    position: absolute;
+    overflow: visible;
+    width: 147px;
+    height: 20px;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(23, 23, 23, 1);
+}
+#Second_Dose_Date {
+    left: 206.083px;
+    top: 140.008px;
+    position: absolute;
+    overflow: visible;
+    width: 147px;
+    height: 9px;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 8px;
+    color: rgba(106, 119, 122, 1);
+}
+#BioNTech_Pfizer_vaccine_ {
+    left: 19.083px;
+    top: 242.012px;
+    position: absolute;
+    overflow: visible;
+    width: 334px;
+    height: 19px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 1);
+    letter-spacing: 0.2px;
+}
+#Rectangle_1268 {
+    fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_1268 {
+    position: absolute;
+    overflow: visible;
+    width: 414px;
+    height: 795px;
+    left: 7px;
+    top: 716px;
+}
+#Repeat_Grid_70 {
+    position: absolute;
+    width: 381.554px;
+    height: 963px;
+    left: 23.223px;
+    top: 767px;
+    overflow: hidden;
+}
+#Group_1307 {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 0px;
+    overflow: visible;
+}
+#Repeat_Grid_69 {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857 {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158 {
+    fill: transparent;
+}
+.Rectangle_1158 {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309 {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021 {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_bk {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_bl {
+    fill: transparent;
+}
+.Rectangle_1158_bl {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990 {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_bq {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_br {
+    fill: transparent;
+}
+.Rectangle_1158_br {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_bt {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_bu {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_bv {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_bw {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_bx {
+    fill: transparent;
+}
+.Rectangle_1158_bx {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_by {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_bz {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_b {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_b {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_b {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 48px;
+    overflow: visible;
+}
+#Repeat_Grid_69_b {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_b {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_b {
+    fill: transparent;
+}
+.Rectangle_1158_b {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_b {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_b {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_b {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_b {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_ca {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_cb {
+    fill: transparent;
+}
+.Rectangle_1158_cb {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_cc {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_cd {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ce {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_cf {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_cg {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_ch {
+    fill: transparent;
+}
+.Rectangle_1158_ch {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_ci {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_cj {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ck {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_cl {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_cm {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_cn {
+    fill: transparent;
+}
+.Rectangle_1158_cn {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_co {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_cp {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_cq {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_cr {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_cs {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 96px;
+    overflow: visible;
+}
+#Repeat_Grid_69_ct {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_cu {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_cv {
+    fill: transparent;
+}
+.Rectangle_1158_cv {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_cw {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_cx {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_cy {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_cz {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_c {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_c {
+    fill: transparent;
+}
+.Rectangle_1158_c {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_c {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_c {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_c {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_c {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_da {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_da {
+    fill: transparent;
+}
+.Rectangle_1158_da {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_c {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_da {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_da {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_db {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_dc {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_dd {
+    fill: transparent;
+}
+.Rectangle_1158_dd {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_de {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_df {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_dg {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_dh {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_di {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 144px;
+    overflow: visible;
+}
+#Repeat_Grid_69_dj {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_dk {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_dl {
+    fill: transparent;
+}
+.Rectangle_1158_dl {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_dm {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_dn {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_do {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_dp {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_dq {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_dr {
+    fill: transparent;
+}
+.Rectangle_1158_dr {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_ds {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_dt {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_du {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_dv {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_dw {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_dx {
+    fill: transparent;
+}
+.Rectangle_1158_dx {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_dy {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_dz {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_d {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_d {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_d {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_d {
+    fill: transparent;
+}
+.Rectangle_1158_d {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_d {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_d {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ea {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_ea {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_d {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 192px;
+    overflow: visible;
+}
+#Repeat_Grid_69_d {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_ea {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_eb {
+    fill: transparent;
+}
+.Rectangle_1158_eb {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_ec {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_ed {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_ee {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_ef {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_eg {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_eh {
+    fill: transparent;
+}
+.Rectangle_1158_eh {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_ei {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_ej {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ek {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_el {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_em {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_en {
+    fill: transparent;
+}
+.Rectangle_1158_en {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_eo {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_ep {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_eq {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_er {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_es {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_et {
+    fill: transparent;
+}
+.Rectangle_1158_et {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_eu {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_ev {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ew {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_ex {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_ey {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 240px;
+    overflow: visible;
+}
+#Repeat_Grid_69_ez {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_e {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_e {
+    fill: transparent;
+}
+.Rectangle_1158_e {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_e {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_e {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_e {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_e {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_fa {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_fa {
+    fill: transparent;
+}
+.Rectangle_1158_fa {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_e {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_e {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_fa {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_fb {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_fc {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_fd {
+    fill: transparent;
+}
+.Rectangle_1158_fd {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_fe {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_ff {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_fg {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_fh {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_fi {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_fj {
+    fill: transparent;
+}
+.Rectangle_1158_fj {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_fk {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_fl {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_fm {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_fn {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_fo {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 288px;
+    overflow: visible;
+}
+#Repeat_Grid_69_fp {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_fq {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_fr {
+    fill: transparent;
+}
+.Rectangle_1158_fr {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_fs {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_ft {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_fu {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_fv {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_fw {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_fx {
+    fill: transparent;
+}
+.Rectangle_1158_fx {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_fy {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_fz {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_f {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_f {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_f {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_f {
+    fill: transparent;
+}
+.Rectangle_1158_f {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_f {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_f {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ga {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_ga {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_ga {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_ga {
+    fill: transparent;
+}
+.Rectangle_1158_ga {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_ga {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_gb {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_gc {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_gd {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_ge {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 336px;
+    overflow: visible;
+}
+#Repeat_Grid_69_gf {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_gg {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_gh {
+    fill: transparent;
+}
+.Rectangle_1158_gh {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_gi {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_gj {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_gk {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_gl {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_gm {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_gn {
+    fill: transparent;
+}
+.Rectangle_1158_gn {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_go {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_gp {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_gq {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_gr {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_gs {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_gt {
+    fill: transparent;
+}
+.Rectangle_1158_gt {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_gu {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_gv {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_gw {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_gx {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_gy {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_gz {
+    fill: transparent;
+}
+.Rectangle_1158_gz {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_g {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_g {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_g {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_g {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_g {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 384px;
+    overflow: visible;
+}
+#Repeat_Grid_69_g {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_g {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_g {
+    fill: transparent;
+}
+.Rectangle_1158_g {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_g {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_g {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_ha {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_hb {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_hc {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_hd {
+    fill: transparent;
+}
+.Rectangle_1158_hd {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_he {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_hf {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_hg {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_hh {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_hi {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_hj {
+    fill: transparent;
+}
+.Rectangle_1158_hj {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_hk {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_hl {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_hm {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_hn {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_ho {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_hp {
+    fill: transparent;
+}
+.Rectangle_1158_hp {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_hq {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_hr {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_hs {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_ht {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_hu {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 432px;
+    overflow: visible;
+}
+#Repeat_Grid_69_hv {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_hw {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_hx {
+    fill: transparent;
+}
+.Rectangle_1158_hx {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_hy {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_hz {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_h {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_h {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_h {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_h {
+    fill: transparent;
+}
+.Rectangle_1158_h {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_h {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_h {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_h {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_h {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_ia {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_ia {
+    fill: transparent;
+}
+.Rectangle_1158_ia {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_ia {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_ib {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ic {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_id {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_ie {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_if {
+    fill: transparent;
+}
+.Rectangle_1158_if {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_ig {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_ih {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ii {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_ij {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_ik {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 480px;
+    overflow: visible;
+}
+#Repeat_Grid_69_il {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_im {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_in {
+    fill: transparent;
+}
+.Rectangle_1158_in {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_io {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_ip {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_iq {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_ir {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_is {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_it {
+    fill: transparent;
+}
+.Rectangle_1158_it {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_iu {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_iv {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_iw {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_ix {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_iy {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_iz {
+    fill: transparent;
+}
+.Rectangle_1158_iz {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_i {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_i {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_i {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_i {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_i {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_i {
+    fill: transparent;
+}
+.Rectangle_1158_i {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_i {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_ja {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ja {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_ja {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_ja {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 528px;
+    overflow: visible;
+}
+#Repeat_Grid_69_jb {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_jc {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_jd {
+    fill: transparent;
+}
+.Rectangle_1158_jd {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_je {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_jf {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_jg {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_jh {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_ji {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_jj {
+    fill: transparent;
+}
+.Rectangle_1158_jj {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_jk {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_jl {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_jm {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_jn {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_jo {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_jp {
+    fill: transparent;
+}
+.Rectangle_1158_jp {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_jq {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_jr {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_js {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_jt {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_ju {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_jv {
+    fill: transparent;
+}
+.Rectangle_1158_jv {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_jw {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_jx {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_jy {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_jz {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_j {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 576px;
+    overflow: visible;
+}
+#Repeat_Grid_69_j {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_j {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_j {
+    fill: transparent;
+}
+.Rectangle_1158_j {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_j {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_j {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_j {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_j {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_ka {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_ka {
+    fill: transparent;
+}
+.Rectangle_1158_ka {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_ka {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_kb {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_kc {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_kd {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_ke {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_kf {
+    fill: transparent;
+}
+.Rectangle_1158_kf {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_kg {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_kh {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ki {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_kj {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_kk {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_kl {
+    fill: transparent;
+}
+.Rectangle_1158_kl {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_km {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_kn {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ko {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_kp {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_kq {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 624px;
+    overflow: visible;
+}
+#Repeat_Grid_69_kr {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_ks {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_kt {
+    fill: transparent;
+}
+.Rectangle_1158_kt {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_ku {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_kv {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_kw {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_kx {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_ky {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_kz {
+    fill: transparent;
+}
+.Rectangle_1158_kz {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_k {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_k {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_k {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_k {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_k {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_k {
+    fill: transparent;
+}
+.Rectangle_1158_k {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_k {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_la {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_la {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_la {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_la {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_lb {
+    fill: transparent;
+}
+.Rectangle_1158_lb {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_lc {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_ld {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_le {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_lf {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_lg {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 672px;
+    overflow: visible;
+}
+#Repeat_Grid_69_lh {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_li {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_lj {
+    fill: transparent;
+}
+.Rectangle_1158_lj {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_lk {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_ll {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_lm {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_ln {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_lo {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_lp {
+    fill: transparent;
+}
+.Rectangle_1158_lp {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_lq {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_lr {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ls {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_lt {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_lu {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_lv {
+    fill: transparent;
+}
+.Rectangle_1158_lv {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_lw {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_lx {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ly {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_lz {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_l {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_l {
+    fill: transparent;
+}
+.Rectangle_1158_l {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_l {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_l {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_l {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_l {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_l {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 720px;
+    overflow: visible;
+}
+#Repeat_Grid_69_l {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_ma {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_ma {
+    fill: transparent;
+}
+.Rectangle_1158_ma {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_ma {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_mb {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_mc {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_md {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_me {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_mf {
+    fill: transparent;
+}
+.Rectangle_1158_mf {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_mg {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_mh {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_mi {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_mj {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_mk {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_ml {
+    fill: transparent;
+}
+.Rectangle_1158_ml {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_mm {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_mn {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_mo {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_mp {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_mq {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_mr {
+    fill: transparent;
+}
+.Rectangle_1158_mr {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_ms {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_mt {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_mu {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_mv {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_mw {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 768px;
+    overflow: visible;
+}
+#Repeat_Grid_69_mx {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_my {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_mz {
+    fill: transparent;
+}
+.Rectangle_1158_mz {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_m {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_m {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_m {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_m {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_m {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_m {
+    fill: transparent;
+}
+.Rectangle_1158_m {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_m {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_m {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_m {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_m {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_na {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_nb {
+    fill: transparent;
+}
+.Rectangle_1158_nb {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_nc {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_nd {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ne {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_nf {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_ng {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_nh {
+    fill: transparent;
+}
+.Rectangle_1158_nh {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_ni {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_nj {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_nk {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_nl {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_nm {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 816px;
+    overflow: visible;
+}
+#Repeat_Grid_69_nn {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_no {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_np {
+    fill: transparent;
+}
+.Rectangle_1158_np {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_nq {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_nr {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_ns {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_nt {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_nu {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_nv {
+    fill: transparent;
+}
+.Rectangle_1158_nv {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_nw {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_nx {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ny {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_nz {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_n {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_n {
+    fill: transparent;
+}
+.Rectangle_1158_n {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_n {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_n {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_n {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_n {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_oa {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_oa {
+    fill: transparent;
+}
+.Rectangle_1158_oa {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_n {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_oa {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_oa {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_ob {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_oc {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 864px;
+    overflow: visible;
+}
+#Repeat_Grid_69_od {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_oe {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_of {
+    fill: transparent;
+}
+.Rectangle_1158_of {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_og {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_oh {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_oi {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_oj {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_ok {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_ol {
+    fill: transparent;
+}
+.Rectangle_1158_ol {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_om {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_on {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_oo {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_op {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_oq {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_or {
+    fill: transparent;
+}
+.Rectangle_1158_or {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_os {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_ot {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_ou {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_ov {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_ow {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_ox {
+    fill: transparent;
+}
+.Rectangle_1158_ox {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_oy {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_oz {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_o {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_o {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_o {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 912px;
+    overflow: visible;
+}
+#Repeat_Grid_69_o {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_o {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_o {
+    fill: transparent;
+}
+.Rectangle_1158_o {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_o {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_o {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_o {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_o {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_pa {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_pb {
+    fill: transparent;
+}
+.Rectangle_1158_pb {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_pc {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_pd {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_pe {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_pf {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_pg {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_ph {
+    fill: transparent;
+}
+.Rectangle_1158_ph {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_pi {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_pj {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_pk {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_pl {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_pm {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_pn {
+    fill: transparent;
+}
+.Rectangle_1158_pn {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_po {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_pp {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_pq {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_pr {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_1307_ps {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: 0.001px;
+    top: 960px;
+    overflow: visible;
+}
+#Repeat_Grid_69_pt {
+    position: absolute;
+    width: 381.554px;
+    height: 60px;
+    left: -0.001px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_857_pu {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_pv {
+    fill: transparent;
+}
+.Rectangle_1158_pv {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Delhi_India_pw {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Cathay_Pacific_Flight_1309_px {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_9_Asia_Miles_py {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#n_3112021_pz {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_p {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1158_p {
+    fill: transparent;
+}
+.Rectangle_1158_p {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_p {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_p {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_p {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_p {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_qa {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_qa {
+    fill: transparent;
+}
+.Rectangle_1158_qa {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Life_Hub_p {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_qa {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_qa {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_qb {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Group_857_qc {
+    position: absolute;
+    width: 370px;
+    height: 63px;
+    left: 374px;
+    top: 52px;
+    overflow: visible;
+}
+#Rectangle_1158_qd {
+    fill: transparent;
+}
+.Rectangle_1158_qd {
+    position: absolute;
+    overflow: visible;
+    width: 370px;
+    height: 63px;
+    left: 0px;
+    top: 0px;
+}
+#Flamingo_Bloom_qe {
+    left: 17px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Central_Hong_Kong_qf {
+    left: 17px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#HK_2990_qg {
+    left: 159px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -4px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Milk_Tea_Latte_qh {
+    left: 159px;
+    top: 36px;
+    position: absolute;
+    overflow: visible;
+    width: 212px;
+    height: 14px;
+    line-height: 20px;
+    margin-top: -5px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(0, 102, 90, 1);
+    letter-spacing: -0.16071430206298828px;
+}
+#Travel_History {
+    left: 37.959px;
+    top: 747px;
+    position: absolute;
+    overflow: visible;
+    width: 243px;
+    height: 22px;
+    text-align: left;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0, 102, 90, 1);
+}
+#Ellipse_156 {
+    fill: rgba(0, 102, 90, 1);
+}
+.Ellipse_156 {
+    filter: drop-shadow(0px 3px 4px rgba(0, 0, 0, 0.161));
+    width: 24.645px;
+    height: 24.645px;
+    position: absolute;
+    overflow: visible;
+    transform: matrix(1, 0, 0, 1, 366.436, 742.142) rotate(269deg);
+    transform-origin: center;
+}
+#Path_3724 {
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 2px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_3724 {
+    overflow: visible;
+    position: absolute;
+    width: 7.968px;
+    height: 13.29px;
+    transform: matrix(1, 0, 0, 1, 374.7729, 748.993) rotate(90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+#Vaccine__Travel_History {
+    left: 38px;
+    top: 46px;
+    position: absolute;
+    overflow: visible;
+    width: 357px;
+    height: 33px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+    letter-spacing: 0.2px;
+}
+#Component_11__50 {
+    position: absolute;
+    width: 28.849px;
+    height: 14.813px;
+    left: 23.576px;
+    top: 55.594px;
+    overflow: visible;
+    transition: all 0.2s bounce;
+    --web-animation: fadein 0.2s bounce;
+    --web-action-type: page;
+    --web-action-target: iPhone_XR__XS_Max__11___3.html;
+    cursor: pointer;
+}
+#Line_1 {
+    fill: transparent;
+    stroke: rgba(11, 50, 101, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_1 {
+    overflow: visible;
+    position: absolute;
+    width: 30.034px;
+    height: 3px;
+    left: 1.813px;
+    top: 7.406px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Line_2 {
+    fill: transparent;
+    stroke: rgba(11, 50, 101, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_2 {
+    overflow: visible;
+    position: absolute;
+    width: 13.836px;
+    height: 11.613px;
+    left: 0px;
+    top: -4.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Line_3 {
+    fill: transparent;
+    stroke: rgba(11, 50, 101, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_3 {
+    overflow: visible;
+    position: absolute;
+    width: 13.836px;
+    height: 11.613px;
+    left: 0px;
+    top: 7.406px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}

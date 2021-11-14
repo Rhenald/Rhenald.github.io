@@ -1,0 +1,836 @@
+
+	#text {
+		font-family: "Roboto", sans-serif;
+	}
+	.mediaViewInfo {
+		--web-view-name: iPhone XR, XS Max, 11 – 3;
+		--web-view-id: iPhone_XR_XS_Max_11__3;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: iPhone_XR_XS_Max_11__3;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_XR_XS_Max_11__3 {
+		position: absolute;
+		width: 414px;
+		height: 942px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone XR, XS Max, 11 – 3;
+		--web-view-id: iPhone_XR_XS_Max_11__3;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#Rectangle_1268 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1268 {
+		position: absolute;
+		overflow: visible;
+		width: 414px;
+		height: 149px;
+		left: 0px;
+		top: 803px;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: iPhone_XR__XS_Max__11___4.html;
+		cursor: pointer;
+	}
+	#Account_Balance {
+		left: 31px;
+		top: 276px;
+		position: absolute;
+		overflow: visible;
+		width: 354px;
+		height: 36px;
+		text-align: center;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 32px;
+		color: rgba(0,0,0,1);
+	}
+	#Mask_Group_8 {
+		position: absolute;
+		width: 99px;
+		height: 115px;
+		left: 44px;
+		top: 308px;
+		overflow: visible;
+	}
+	#n_320 {
+		left: 75px;
+		top: 325px;
+		position: absolute;
+		overflow: visible;
+		width: 354px;
+		height: 89px;
+		text-align: center;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 80px;
+		color: rgba(0,0,0,1);
+	}
+	#Miles_earned_from_1_Jan_2021_w {
+		left: 54px;
+		top: 414px;
+		position: absolute;
+		overflow: visible;
+		width: 307px;
+		height: 34px;
+		text-align: center;
+		font-family: Helvetica;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(0,0,0,1);
+	}
+	#Group_1303 {
+		position: absolute;
+		width: 353px;
+		height: 167.008px;
+		left: 37.273px;
+		top: 471px;
+		overflow: visible;
+	}
+	#Rectangle_1262 {
+		opacity: 0.268;
+		fill: rgba(95,149,125,1);
+	}
+	.Rectangle_1262 {
+		filter: drop-shadow(4px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 370px;
+		height: 185.008px;
+		left: 0px;
+		top: 0px;
+	}
+	#cathay_cx {
+		position: absolute;
+		width: 78px;
+		height: 78px;
+		left: 23px;
+		top: 70.008px;
+		overflow: visible;
+	}
+	#CX_Health_Points {
+		left: 0px;
+		top: 28.287px;
+		position: absolute;
+		overflow: visible;
+		width: 354px;
+		height: 39px;
+		text-align: center;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(49,62,71,1);
+	}
+	#n_5320 {
+		opacity: 0.65;
+		left: 101px;
+		top: 80.008px;
+		position: absolute;
+		overflow: visible;
+		width: 222px;
+		height: 73px;
+		text-align: center;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 65px;
+		color: rgba(0,93,99,1);
+	}
+	#Mask_Group_9 {
+		position: absolute;
+		width: 99px;
+		height: 115px;
+		left: 44px;
+		top: 308px;
+		overflow: visible;
+	}
+	#Transaction_History {
+		left: 25.362px;
+		top: 836.585px;
+		position: absolute;
+		overflow: visible;
+		width: 243px;
+		height: 28px;
+		text-align: left;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(0,0,0,1);
+	}
+	#Past_60_transactions_for_the_p {
+		left: 25.362px;
+		top: 867.784px;
+		position: absolute;
+		overflow: visible;
+		width: 307px;
+		height: 14px;
+		text-align: left;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(90,89,89,1);
+	}
+	#Ellipse_149 {
+		fill: rgba(0,102,90,1);
+	}
+	.Ellipse_149 {
+		filter: drop-shadow(0px 3px 4px rgba(0, 0, 0, 0.161));
+		width: 32px;
+		height: 32px;
+		position: absolute;
+		overflow: visible;
+		transform: matrix(1,0,0,1,357.0269,831.5396) rotate(269deg);
+		transform-origin: center;
+	}
+	#Path_3717 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3717 {
+		overflow: visible;
+		position: absolute;
+		width: 7.623px;
+		height: 13.457px;
+		transform: matrix(1,0,0,1,369.2152,840.8107) rotate(269deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		--web-animation: fadein 0.3s wind-up;
+		--web-action-type: page;
+		--web-action-target: iPhone_XR__XS_Max__11___4.html;
+		cursor: pointer;
+	}
+	#Repeat_Grid_71 {
+		position: absolute;
+		width: 381.554px;
+		height: 60px;
+		left: 10.223px;
+		top: 881px;
+		overflow: hidden;
+	}
+	#Group_857 {
+		position: absolute;
+		width: 370px;
+		height: 63px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1158 {
+		fill: transparent;
+	}
+	.Rectangle_1158 {
+		position: absolute;
+		overflow: visible;
+		width: 370px;
+		height: 63px;
+		left: 0px;
+		top: 0px;
+	}
+	#Fitness_First_ {
+		left: 17px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 16px;
+		line-height: 20px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 12px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Central_Hong_Kong {
+		left: 17px;
+		top: 36px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 14px;
+		line-height: 20px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#n_9_Asia_Miles {
+		left: 159px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 16px;
+		line-height: 20px;
+		margin-top: -4px;
+		text-align: right;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 12px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#n_5_CX_Health_Points {
+		left: 159px;
+		top: 36px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 14px;
+		line-height: 20px;
+		margin-top: -5px;
+		text-align: right;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Group_857_ba {
+		position: absolute;
+		width: 370px;
+		height: 63px;
+		left: 374px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_1158_bb {
+		fill: transparent;
+	}
+	.Rectangle_1158_bb {
+		position: absolute;
+		overflow: visible;
+		width: 370px;
+		height: 63px;
+		left: 0px;
+		top: 0px;
+	}
+	#Flamingo_Bloom {
+		left: 17px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 16px;
+		line-height: 20px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 12px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Central_Hong_Kong_bd {
+		left: 17px;
+		top: 36px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 14px;
+		line-height: 20px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#HK_2990 {
+		left: 159px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 16px;
+		line-height: 20px;
+		margin-top: -4px;
+		text-align: right;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 12px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Milk_Tea_Latte {
+		left: 159px;
+		top: 36px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 14px;
+		line-height: 20px;
+		margin-top: -5px;
+		text-align: right;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Group_857_bg {
+		position: absolute;
+		width: 370px;
+		height: 63px;
+		left: 0px;
+		top: 52px;
+		overflow: visible;
+	}
+	#Rectangle_1158_bh {
+		fill: transparent;
+	}
+	.Rectangle_1158_bh {
+		position: absolute;
+		overflow: visible;
+		width: 370px;
+		height: 63px;
+		left: 0px;
+		top: 0px;
+	}
+	#Life_Hub {
+		left: 17px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 16px;
+		line-height: 20px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 12px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Central_Hong_Kong_bj {
+		left: 17px;
+		top: 36px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 14px;
+		line-height: 20px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#HK_2990_bk {
+		left: 159px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 16px;
+		line-height: 20px;
+		margin-top: -4px;
+		text-align: right;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 12px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Milk_Tea_Latte_bl {
+		left: 159px;
+		top: 36px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 14px;
+		line-height: 20px;
+		margin-top: -5px;
+		text-align: right;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Group_857_bm {
+		position: absolute;
+		width: 370px;
+		height: 63px;
+		left: 374px;
+		top: 52px;
+		overflow: visible;
+	}
+	#Rectangle_1158_bn {
+		fill: transparent;
+	}
+	.Rectangle_1158_bn {
+		position: absolute;
+		overflow: visible;
+		width: 370px;
+		height: 63px;
+		left: 0px;
+		top: 0px;
+	}
+	#Flamingo_Bloom_bo {
+		left: 17px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 16px;
+		line-height: 20px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 12px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Central_Hong_Kong_bp {
+		left: 17px;
+		top: 36px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 14px;
+		line-height: 20px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#HK_2990_bq {
+		left: 159px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 16px;
+		line-height: 20px;
+		margin-top: -4px;
+		text-align: right;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 12px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Milk_Tea_Latte_br {
+		left: 159px;
+		top: 36px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		height: 14px;
+		line-height: 20px;
+		margin-top: -5px;
+		text-align: right;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,102,90,1);
+		letter-spacing: -0.16071430206298828px;
+	}
+	#Group_1308 {
+		position: absolute;
+		width: 351.497px;
+		height: 117.252px;
+		left: 35.728px;
+		top: 653.008px;
+		overflow: visible;
+	}
+	#Rectangle_1260 {
+		fill: rgba(95,149,125,1);
+	}
+	.Rectangle_1260 {
+		position: absolute;
+		overflow: visible;
+		width: 351.497px;
+		height: 35.342px;
+		left: -0.001px;
+		top: 0px;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: iPhone_12_Pro_Max___55.html;
+		cursor: pointer;
+	}
+	#Redeem_Points {
+		left: 120.092px;
+		top: 8.634px;
+		position: absolute;
+		overflow: visible;
+		width: 118px;
+		height: 20px;
+		text-align: center;
+		font-family: "Roboto";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#Rectangle_1263 {
+		fill: rgba(95,149,125,1);
+	}
+	.Rectangle_1263 {
+		position: absolute;
+		overflow: visible;
+		width: 351.497px;
+		height: 35.342px;
+		left: -0.001px;
+		top: 40.955px;
+		--web-animation: fadein 0.3s ease-out;
+		--web-action-type: page;
+		--web-action-target: iPhone_12_Pro_Max___68.html;
+		cursor: pointer;
+	}
+	#Transfer_to_CX_Miles {
+		left: 94.958px;
+		top: 48.589px;
+		position: absolute;
+		overflow: visible;
+		width: 167px;
+		height: 20px;
+		text-align: center;
+		font-family: "Roboto";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#Rectangle_1269 {
+		fill: rgba(95,149,125,1);
+	}
+	.Rectangle_1269 {
+		position: absolute;
+		overflow: visible;
+		width: 351.497px;
+		height: 35.342px;
+		left: -0.001px;
+		top: 81.91px;
+	}
+	#View_Health_Tracking {
+		left: 78.853px;
+		top: 88.819px;
+		position: absolute;
+		overflow: visible;
+		width: 197px;
+		height: 20px;
+		text-align: center;
+		font-family: "Roboto";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.2px;
+	}
+	#Rectangle_1258 {
+		fill: rgba(250,216,7,1);
+	}
+	.Rectangle_1258 {
+		position: absolute;
+		overflow: visible;
+		width: 430px;
+		height: 244px;
+		left: -2px;
+		top: 0px;
+	}
+	#n_43b0022-4109-4cd3-ba71-96199 {
+		position: absolute;
+		width: 378px;
+		height: 146px;
+		left: 4px;
+		top: 15px;
+		overflow: visible;
+	}
+	#Group_1309 {
+		position: absolute;
+		width: 66.661px;
+		height: 11.336px;
+		left: 332.902px;
+		top: 15px;
+		overflow: visible;
+	}
+	#Group_194 {
+		position: absolute;
+		width: 22px;
+		height: 11.333px;
+		left: 42.333px;
+		top: 0.003px;
+		overflow: visible;
+	}
+	#Group_196 {
+		position: absolute;
+		width: 1.328px;
+		height: 4px;
+		left: 65.333px;
+		top: 3.669px;
+		overflow: visible;
+	}
+	#Group_198 {
+		position: absolute;
+		width: 18px;
+		height: 7.333px;
+		left: 44.333px;
+		top: 2.003px;
+		overflow: visible;
+	}
+	#Group_200 {
+		position: absolute;
+		width: 15.272px;
+		height: 10.966px;
+		left: 22.026px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_202 {
+		position: absolute;
+		width: 17px;
+		height: 10.667px;
+		left: -0.001px;
+		top: 0.336px;
+		overflow: visible;
+	}
+	#n_41 {
+		left: 21px;
+		top: 10.999px;
+		position: absolute;
+		overflow: visible;
+		width: 173px;
+		height: 20px;
+		text-align: left;
+		font-family: Avenir;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(0,0,0,1);
+	}
+	#Group_1327 {
+		position: absolute;
+		width: 217px;
+		height: 69px;
+		left: 118px;
+		top: 152px;
+		overflow: visible;
+	}
+	#Lo_Kam_Kiu__ID_104201123_View_ {
+		left: 0px;
+		top: 3px;
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		height: 66px;
+		text-align: left;
+		font-family: Helvetica;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(0,0,0,1);
+	}
+	#view_settings {
+		position: relative;
+		color:rgba(0,0,0,1);
+		top: -30px;
+	} 
+	#id_104201123 {
+		position: relative;
+		top: -10px;
+	}
+	#Ellipse_149_ca {
+		fill: rgba(193,179,153,1);
+	}
+	.Ellipse_149_ca {
+		filter: drop-shadow(0px 3px 4px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		height: 44px;
+		left: 185px;
+		top: 0px;
+	}
+	#Path_3717_cb {
+		fill: transparent;
+		stroke: rgba(49,62,71,1);
+		stroke-width: 2px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+		
+	}
+	.Path_3717_cb {
+		overflow: visible;
+		position: absolute;
+		width: 12.755px;
+		height: 20.073px;
+		left: 193.526px;
+		top: 7.371px;
+		transform: matrix(1,0,0,1,0,0);
+		transform: rotate(90deg);
+	}
+	#WhatsApp_Image_2021-11-13_at_5 {
+		position: absolute;
+		width: 76px;
+		height: 76px;
+		left: 28px;
+		top: 149px;
+		overflow: visible;
+	}

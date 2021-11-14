@@ -1,0 +1,1469 @@
+.mediaViewInfo {
+    --web-view-name: iPhone 12 Pro Max – 70;
+    --web-view-id: iPhone_12_Pro_Max__70;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: iPhone_12_Pro_Max__70;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#iPhone_12_Pro_Max__70 {
+    position: absolute;
+    width: 428px;
+    height: 926px;
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    --web-view-name: iPhone 12 Pro Max – 70;
+    --web-view-id: iPhone_12_Pro_Max__70;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+@keyframes fadein {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+#Group_206 {
+    position: absolute;
+    width: 66.661px;
+    height: 11.336px;
+    left: 345.667px;
+    top: 18.331px;
+    overflow: visible;
+}
+#Group_194 {
+    position: absolute;
+    width: 22px;
+    height: 11.334px;
+    left: 42.333px;
+    top: 0.002px;
+    overflow: visible;
+}
+#Group_196 {
+    position: absolute;
+    width: 1.328px;
+    height: 4px;
+    left: 65.333px;
+    top: 3.669px;
+    overflow: visible;
+}
+#Group_198 {
+    position: absolute;
+    width: 18px;
+    height: 7.334px;
+    left: 44.333px;
+    top: 2.002px;
+    overflow: visible;
+}
+#Group_200 {
+    position: absolute;
+    width: 15.272px;
+    height: 10.965px;
+    left: 22.026px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_202 {
+    position: absolute;
+    width: 17px;
+    height: 10.666px;
+    left: 0px;
+    top: 0.336px;
+    overflow: visible;
+}
+#n_41 {
+    left: 24px;
+    top: 15px;
+    position: absolute;
+    overflow: visible;
+    width: 173px;
+    height: 20px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 1);
+}
+#CX_Health_Leaderboard {
+    left: 36px;
+    top: 63px;
+    position: absolute;
+    overflow: visible;
+    width: 357px;
+    height: 33px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 1);
+    letter-spacing: 0.2px;
+}
+#WhatsApp_Image_2021-11-13_at_5 {
+    filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 105px;
+    height: 105px;
+    left: 33.5px;
+    top: 118.332px;
+    overflow: visible;
+}
+#WhatsApp_Image_2021-11-13_at_6 {
+    filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 105px;
+    height: 105px;
+    left: 161.5px;
+    top: 118.332px;
+    overflow: visible;
+}
+#Repeat_Grid_52 {
+    position: absolute;
+    width: 447px;
+    height: 21px;
+    left: 13.5px;
+    top: 234.832px;
+    overflow: hidden;
+}
+#Group {
+    position: absolute;
+    width: 147px;
+    height: 20px;
+    left: 0px;
+    top: 3px;
+    overflow: visible;
+}
+#Kelvin {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 148px;
+    height: 20px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_ {
+    position: absolute;
+    width: 147px;
+    height: 20px;
+    left: 132px;
+    top: 3px;
+    overflow: visible;
+}
+#Bhavisha {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 148px;
+    height: 20px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_ba {
+    position: absolute;
+    width: 147px;
+    height: 20px;
+    left: 264px;
+    top: 3px;
+    overflow: visible;
+}
+#Ryan {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 148px;
+    height: 20px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_bb {
+    position: absolute;
+    width: 147px;
+    height: 20px;
+    left: 396px;
+    top: 3px;
+    overflow: visible;
+}
+#Ryan_ {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 148px;
+    height: 20px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_1335 {
+    position: absolute;
+    width: 305px;
+    height: 555px;
+    left: 95.969px;
+    top: 337.666px;
+    overflow: visible;
+}
+#Group_1333 {
+    position: absolute;
+    width: 305px;
+    height: 555px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Repeat_Grid_74 {
+    position: absolute;
+    width: 305px;
+    height: 555px;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+#Group_343 {
+    position: absolute;
+    width: 305px;
+    height: 32px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Ryan_bb {
+    opacity: 0.502;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Tuesday_201021_ {
+    opacity: 0.502;
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Invis_Cycling {
+    opacity: 0.502;
+    left: 109px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#n_5_health_points {
+    opacity: 0.502;
+    left: 109px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_343_bf {
+    position: absolute;
+    width: 305px;
+    height: 32px;
+    left: 0px;
+    top: 47px;
+    overflow: visible;
+}
+#Ryan_bg {
+    opacity: 0.502;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Tuesday_201021__bh {
+    opacity: 0.502;
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Invis_Cycling_bi {
+    opacity: 0.502;
+    left: 109px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#n_5_health_points_bj {
+    opacity: 0.502;
+    left: 109px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_343_bk {
+    position: absolute;
+    width: 305px;
+    height: 32px;
+    left: 0px;
+    top: 94px;
+    overflow: visible;
+}
+#Ryan_bl {
+    opacity: 0.502;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Tuesday_201021__bm {
+    opacity: 0.502;
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Invis_Cycling_bn {
+    opacity: 0.502;
+    left: 109px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#n_5_health_points_bo {
+    opacity: 0.502;
+    left: 109px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_343_bp {
+    position: absolute;
+    width: 305px;
+    height: 32px;
+    left: 0px;
+    top: 141px;
+    overflow: visible;
+}
+#Ryan_bq {
+    opacity: 0.502;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Tuesday_201021__br {
+    opacity: 0.502;
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Invis_Cycling_bs {
+    opacity: 0.502;
+    left: 109px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#n_5_health_points_bt {
+    opacity: 0.502;
+    left: 109px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_343_bu {
+    position: absolute;
+    width: 305px;
+    height: 32px;
+    left: 0px;
+    top: 188px;
+    overflow: visible;
+}
+#Ryan_bv {
+    opacity: 0.502;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Tuesday_201021__bw {
+    opacity: 0.502;
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Invis_Cycling_bx {
+    opacity: 0.502;
+    left: 109px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#n_5_health_points_by {
+    opacity: 0.502;
+    left: 109px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_343_bz {
+    position: absolute;
+    width: 305px;
+    height: 32px;
+    left: 0px;
+    top: 235px;
+    overflow: visible;
+}
+#Ryan_b {
+    opacity: 0.502;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Tuesday_201021__b {
+    opacity: 0.502;
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Invis_Cycling_b {
+    opacity: 0.502;
+    left: 109px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#n_5_health_points_b {
+    opacity: 0.502;
+    left: 109px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_343_b {
+    position: absolute;
+    width: 305px;
+    height: 32px;
+    left: 0px;
+    top: 282px;
+    overflow: visible;
+}
+#Ryan_ca {
+    opacity: 0.502;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Tuesday_201021__ca {
+    opacity: 0.502;
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Invis_Cycling_ca {
+    opacity: 0.502;
+    left: 109px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#n_5_health_points_ca {
+    opacity: 0.502;
+    left: 109px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_343_ca {
+    position: absolute;
+    width: 305px;
+    height: 32px;
+    left: 0px;
+    top: 329px;
+    overflow: visible;
+}
+#Ryan_cb {
+    opacity: 0.502;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Tuesday_201021__cb {
+    opacity: 0.502;
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Invis_Cycling_cc {
+    opacity: 0.502;
+    left: 109px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#n_5_health_points_cd {
+    opacity: 0.502;
+    left: 109px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_343_ce {
+    position: absolute;
+    width: 305px;
+    height: 32px;
+    left: 0px;
+    top: 376px;
+    overflow: visible;
+}
+#Ryan_cf {
+    opacity: 0.502;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Tuesday_201021__cg {
+    opacity: 0.502;
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Invis_Cycling_ch {
+    opacity: 0.502;
+    left: 109px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#n_5_health_points_ci {
+    opacity: 0.502;
+    left: 109px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_343_cj {
+    position: absolute;
+    width: 305px;
+    height: 32px;
+    left: 0px;
+    top: 423px;
+    overflow: visible;
+}
+#Ryan_ck {
+    opacity: 0.502;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Tuesday_201021__cl {
+    opacity: 0.502;
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Invis_Cycling_cm {
+    opacity: 0.502;
+    left: 109px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#n_5_health_points_cn {
+    opacity: 0.502;
+    left: 109px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_343_co {
+    position: absolute;
+    width: 305px;
+    height: 32px;
+    left: 0px;
+    top: 470px;
+    overflow: visible;
+}
+#Ryan_cp {
+    opacity: 0.502;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Tuesday_201021__cq {
+    opacity: 0.502;
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Invis_Cycling_cr {
+    opacity: 0.502;
+    left: 109px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#n_5_health_points_cs {
+    opacity: 0.502;
+    left: 109px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Group_343_ct {
+    position: absolute;
+    width: 305px;
+    height: 32px;
+    left: 0px;
+    top: 517px;
+    overflow: visible;
+}
+#Ryan_cu {
+    opacity: 0.502;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Tuesday_201021__cv {
+    opacity: 0.502;
+    left: 0px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Invis_Cycling_cw {
+    opacity: 0.502;
+    left: 109px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 17px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#n_5_health_points_cx {
+    opacity: 0.502;
+    left: 109px;
+    top: 18px;
+    position: absolute;
+    overflow: visible;
+    width: 197px;
+    height: 14px;
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Component_25__8 {
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 132px;
+    top: 277px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: iPhone_12_Pro_Max___69.html;
+    cursor: pointer;
+}
+#Component_26__1 {
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Rectangle_1182 {
+    fill: rgba(95, 149, 125, 1);
+}
+.Rectangle_1182 {
+    position: absolute;
+    overflow: visible;
+    width: 164px;
+    height: 29px;
+    left: 0px;
+    top: 0px;
+}
+#Fitness_Tracking {
+    left: 114px;
+    top: 282px;
+    position: absolute;
+    overflow: visible;
+    width: 202px;
+    height: 19px;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 0.2px;
+}
+#WhatsApp_Image_2021-11-13_at_5_c {
+    filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 105px;
+    height: 105px;
+    left: 295.938px;
+    top: 118.333px;
+    overflow: visible;
+}
+#Repeat_Grid_75 {
+    position: absolute;
+    width: 62px;
+    height: 555px;
+    left: 27.031px;
+    top: 335px;
+    overflow: hidden;
+}
+#Group_c {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#INVIS_Logo_Asiamile {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_da {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 46px;
+    overflow: visible;
+}
+#INVIS_Logo_Asiamile_c {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_db {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 92px;
+    overflow: visible;
+}
+#INVIS_Logo_Asiamile_da {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_dc {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 138px;
+    overflow: visible;
+}
+#INVIS_Logo_Asiamile_db {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_dd {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 184px;
+    overflow: visible;
+}
+#INVIS_Logo_Asiamile_dd {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_de {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 230px;
+    overflow: visible;
+}
+#INVIS_Logo_Asiamile_df {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_dg {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 276px;
+    overflow: visible;
+}
+#INVIS_Logo_Asiamile_dh {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_di {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 322px;
+    overflow: visible;
+}
+#INVIS_Logo_Asiamile_dj {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_dk {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 368px;
+    overflow: visible;
+}
+#INVIS_Logo_Asiamile_dl {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_dm {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 414px;
+    overflow: visible;
+}
+#INVIS_Logo_Asiamile_dn {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_do {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 460px;
+    overflow: visible;
+}
+#INVIS_Logo_Asiamile_dp {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_dq {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 506px;
+    overflow: visible;
+}
+#INVIS_Logo_Asiamile_dr {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_ds {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 552px;
+    overflow: visible;
+}
+#INVIS_Logo_Asiamile_dt {
+    position: absolute;
+    width: 62px;
+    height: 37px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Ellipse_153 {
+    fill: rgba(255, 239, 114, 1);
+}
+.Ellipse_153 {
+    filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 29px;
+    height: 29px;
+    left: 33px;
+    top: 122px;
+}
+#n_ {
+    left: 41px;
+    top: 128px;
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Ellipse_154 {
+    fill: rgba(255, 239, 114, 1);
+}
+.Ellipse_154 {
+    filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 29px;
+    height: 29px;
+    left: 162px;
+    top: 125px;
+}
+#n__dx {
+    left: 170px;
+    top: 131px;
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
+#Ellipse_155 {
+    fill: rgba(255, 239, 114, 1);
+}
+.Ellipse_155 {
+    filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 29px;
+    height: 29px;
+    left: 296px;
+    top: 120px;
+}
+#n__dz {
+    left: 304px;
+    top: 126px;
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 17px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(10, 46, 93, 1);
+    letter-spacing: 0.2px;
+}
